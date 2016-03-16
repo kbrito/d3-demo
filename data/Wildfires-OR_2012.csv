@@ -1,0 +1,690 @@
+Fire Year,District,Unit,Fire Number,Fire Name,Legal,Latitude,Longitude,Fuel Model,County,Report Date,General Cause,ODF Acres,Total Acres
+2012,51 - Tillamook,Tillamook,2,BROOTEN RD,T04S R10W S32 NWSW,"45ï¿½ï¿½10'ï¿½54""","45ï¿½ï¿½10'ï¿½54""",F,Tillamook,7/24/2012 20:54,Equipment Use,0.3,0.3
+2012,51 - Tillamook,Tillamook,3,HOBSONVILLE POINT,T01N R10W S27 NWNW,"45ï¿½ï¿½32'ï¿½52""","-123ï¿½ï¿½54'ï¿½25""",F,Tillamook,7/26/2012 15:36,Recreationist,0.01,0.01
+2012,51 - Tillamook,Tillamook,15,NORTH FORK ROAD,T03N R10W S13 NWSW,"45ï¿½ï¿½44'ï¿½41""","-123ï¿½ï¿½51'ï¿½49""",J,Tillamook,8/11/2012 16:36,Debris Burning,1.2,1.2
+2012,51 - Tillamook,Tillamook,25,KILCHIS PARK,T01N R09W S28 NESE,"45ï¿½ï¿½32'ï¿½24""","-123ï¿½ï¿½47'ï¿½15""",F,Tillamook,8/17/2012 12:55,Debris Burning,0.01,0.01
+2012,51 - Tillamook,Tillamook,29,BAYOCEAN SPIT,T01S R10W S06 NESE,"45ï¿½ï¿½30'ï¿½42""","-123ï¿½ï¿½56'ï¿½42""",A,Tillamook,8/25/2012 14:30,Smoking,0.01,0.01
+2012,51 - Tillamook,Tillamook,36,GOODSPEED RD,T01S R10W S24 NWSE,"45ï¿½ï¿½28'ï¿½8""","-123ï¿½ï¿½50'ï¿½57""",A,Tillamook,9/1/2012 17:14,Equipment Use,0.2,0.2
+2012,51 - Tillamook,Tillamook,37,NEDONNA BEACH COMPLEX,T02N R10W S20 NWNW,"45ï¿½ï¿½39'ï¿½18""","-123ï¿½ï¿½56'ï¿½24""",X,Tillamook,9/2/2012 10:27,Recreationist,0.01,0.01
+2012,51 - Tillamook,Tillamook,38,HOBSONVILLE POINT #2,T01N R10W S27 SWNW,"45ï¿½ï¿½32'ï¿½49""","-123ï¿½ï¿½54'ï¿½21""",X,Tillamook,9/2/2012 16:12,Miscellaneous,0.01,0.01
+2012,51 - Tillamook,Tillamook,49,HOQUARTEN FIRE,T01S R09W S30 SENW,"45ï¿½ï¿½27'ï¿½28""","-123ï¿½ï¿½50'ï¿½22""",F,Tillamook,9/23/2012 10:44,Miscellaneous,0.01,0.01
+2012,51 - Tillamook,Tillamook,52,BARNEY RUBBLE FIRE,T02N R08W S27 NWSW,"45ï¿½ï¿½37'ï¿½36""","-123ï¿½ï¿½39'ï¿½31""",H,Tillamook,9/30/2012 13:36,Recreationist,0.01,0.01
+2012,52 - Astoria,Astoria,1,Rail Road,T07N R10W S04 NWNE,"46ï¿½ï¿½7'ï¿½35""","-123ï¿½ï¿½55'ï¿½36""",X,Clatsop,7/16/2012 14:40,Debris Burning,0.01,0.01
+2012,52 - Astoria,Astoria,7,KAMPY LANE,T04N R07W S06 NWNW,"45ï¿½ï¿½51'ï¿½52""","-123ï¿½ï¿½35'ï¿½55""",J,Clatsop,8/2/2012 17:09,Debris Burning,0.01,0.01
+2012,52 - Astoria,Astoria,9,ALDERWOOD 2,T07N R06W S01 SWNW,"46ï¿½ï¿½7'ï¿½12""","-123ï¿½ï¿½23'ï¿½3""",K,Clatsop,8/11/2012 12:15,Debris Burning,0.01,0.01
+2012,52 - Astoria,Astoria,16,CAUSEWAY FIRE,T08N R10W S23 SENW,"46ï¿½ï¿½9'ï¿½55""","-123ï¿½ï¿½53'ï¿½30""",L,Clatsop,8/30/2012 13:11,Smoking,0.01,0.01
+2012,52 - Astoria,Astoria,18,ALAMEDA TRAIL,T08N R09W S18 SWNE,"46ï¿½ï¿½10'ï¿½48""","-123ï¿½ï¿½50'ï¿½44""",L,Clatsop,8/31/2012 13:01,Recreationist,0.01,0.01
+2012,52 - Astoria,Astoria,19,KLASKANIE TRAIL,T08N R09W S18 SWNE,"46ï¿½ï¿½10'ï¿½49""","-123ï¿½ï¿½50'ï¿½42""",J,Clatsop,9/3/2012 18:32,Recreationist,0.01,0.01
+2012,52 - Astoria,Astoria,20,BATTERY 245,T08N R10W S06 NWSE,"46ï¿½ï¿½12'ï¿½23""","-123ï¿½ï¿½58'ï¿½17""",F,Clatsop,9/4/2012 15:40,Recreationist,0.01,0.01
+2012,52 - Astoria,Astoria,23,MITSCHER RD.,T08N R09W S11 SESW,"46ï¿½ï¿½11'ï¿½5""","-123ï¿½ï¿½46'ï¿½24""",U,Clatsop,9/6/2012 16:53,Juveniles,0.01,0.01
+2012,52 - Astoria,Astoria,24,Bog Fire,T08N R08W S23 NESW,"46ï¿½ï¿½9'ï¿½41""","-123ï¿½ï¿½38'ï¿½45""",L,Clatsop,2/6/2012 17:55,Debris Burning,4.9,4.9
+2012,52 - Astoria,Astoria,24,MILITARY CREEK,T04N R06W S05 NENE,"45ï¿½ï¿½51'ï¿½47""","-123ï¿½ï¿½23'ï¿½39""",I,Clatsop,9/7/2012 5:25,Recreationist,0.35,0.35
+2012,52 - Astoria,Astoria,26,Longhorn Ranch,T07N R09W S13 NENE,"46ï¿½ï¿½5'ï¿½44""","-123ï¿½ï¿½44'ï¿½20""",L,Clatsop,5/16/2012 15:30,Debris Burning,0.2,0.2
+2012,52 - Astoria,Astoria,26,WADSWORTH #2,T07N R09W S19 SWNW,"46ï¿½ï¿½4'ï¿½46""","-123ï¿½ï¿½51'ï¿½28""",A,Clatsop,9/8/2012 17:52,Miscellaneous,1.75,1.75
+2012,52 - Astoria,Astoria,27,Middle School,T08N R09W S17 SENW,"46ï¿½ï¿½10'ï¿½48""","-123ï¿½ï¿½49'ï¿½38""",H,Clatsop,9/12/2012 16:08,Juveniles,0.01,0.01
+2012,52 - Astoria,Astoria,28,GUNLINE FIRE,T07N R10W S05 SWNE,"46ï¿½ï¿½7'ï¿½19""","-123ï¿½ï¿½56'ï¿½35""",C,Clatsop,9/13/2012 13:10,Miscellaneous,1.26,1.26
+2012,52 - Astoria,Astoria,33,LOST LAKE,T04N R07W S17 SENW,"45ï¿½ï¿½49'ï¿½35""","-123ï¿½ï¿½34'ï¿½39""",H,Clatsop,9/25/2012 13:34,Recreationist,0.01,0.01
+2012,52 - Astoria,Astoria,36,CONIFER LANE,T07N R09W S06 SWNW,"46ï¿½ï¿½7'ï¿½15""","-123ï¿½ï¿½50'ï¿½52""",F,Clatsop,10/3/2012 9:50,Juveniles,0.01,0.01
+2012,52 - Astoria,Astoria,37,EMERALD HEIGHTS,T08N R09W S15 NENE,"46ï¿½ï¿½11'ï¿½2""","-123ï¿½ï¿½46'ï¿½31""",K,Clatsop,10/5/2012 8:43,Miscellaneous,0.04,0.04
+2012,52 - Astoria,Astoria,38,MOWICK,T04N R07W S06 NWNE,"45ï¿½ï¿½51'ï¿½38""","-123ï¿½ï¿½35'ï¿½23""",F,Clatsop,10/5/2012 15:45,Miscellaneous,0.71,0.71
+2012,52 - Astoria,Astoria,42,FALL CREEK,T04N R10W S18 NWSW,"45ï¿½ï¿½49'ï¿½55""","-123ï¿½ï¿½57'ï¿½33""",H,Clatsop,10/10/2012 18:50,Recreationist,0.01,0.01
+2012,53 - Forest Grove,Columbia City,1,Keasey Road #1,T05N R05W S33 NWNW,"45ï¿½ï¿½52'ï¿½42""","-123ï¿½ï¿½19'ï¿½2""",J,Columbia,7/10/2012 14:31,Debris Burning,4.3,4.3
+2012,53 - Forest Grove,Forest Grove,2,Orchard Burn Pile,T02S R04W S23 SWNE,"45ï¿½ï¿½23'ï¿½8""","-123ï¿½ï¿½8'ï¿½41""",I,Yamhill,7/12/2012 15:15,Debris Burning,0,0.03
+2012,53 - Forest Grove,Forest Grove,11,Leyman Rd Fire,T03N R04W S26 SWNE,"45ï¿½ï¿½42'ï¿½59""","-123ï¿½ï¿½8'ï¿½39""",J,Washington,8/4/2012 14:00,Debris Burning,0,0.5
+2012,53 - Forest Grove,Columbia City,12,Brooks Road #1,T04N R02W S02 SWSW,"45ï¿½ï¿½51'ï¿½17""","-122ï¿½ï¿½54'ï¿½29""",L,Columbia,7/31/2012 15:36,Equipment Use,0.01,0.01
+2012,53 - Forest Grove,Columbia City,17,Canaan Road #1,T05N R02W S09 SWSE,"45ï¿½ï¿½55'ï¿½32""","-122ï¿½ï¿½56'ï¿½9""",J,Columbia,8/6/2012 22:08,Recreationist,0.01,0.01
+2012,53 - Forest Grove,Forest Grove,21,Shelton Road Fire,T03S R04W S30 NESE,"45ï¿½ï¿½16'ï¿½50""","-123ï¿½ï¿½13'ï¿½10""",L,Yamhill,8/15/2012 14:14,Equipment Use,0,1.5
+2012,53 - Forest Grove,Columbia City,32,Gilmore Rd #1,T03N R02W S01 NWSE,"45ï¿½ï¿½46'ï¿½21""","-122ï¿½ï¿½53'ï¿½2""",L,Columbia,9/1/2012 17:10,Equipment Use,0.01,0.01
+2012,53 - Forest Grove,Columbia City,33,Apiary Rd. MP15#1,T05N R03W S08 NENW,"45ï¿½ï¿½56'ï¿½15""","-123ï¿½ï¿½4'ï¿½44""",J,Columbia,9/1/2012 16:59,Recreationist,1.4,1.4
+2012,53 - Forest Grove,Columbia City,34,Chapman Grange Road #1,T04N R03W S25 NENW,"45ï¿½ï¿½48'ï¿½26""","-123ï¿½ï¿½0'ï¿½11""",L,Columbia,9/3/2012 16:28,Smoking,0.06,0.06
+2012,53 - Forest Grove,Columbia City,38,Clark Road #1,T06N R03W S25 SENE,"45ï¿½ï¿½58'ï¿½50""","-122ï¿½ï¿½59'ï¿½39""",R,Columbia,9/7/2012 18:18,Recreationist,0.02,0.02
+2012,53 - Forest Grove,Columbia City,41,Holaday Rd. #1,T03N R02W S04 NWSE,"45ï¿½ï¿½46'ï¿½25""","-122ï¿½ï¿½55'ï¿½57""",F,Columbia,9/14/2012 19:14,Smoking,2,2
+2012,53 - Forest Grove,Columbia City,55,Parkdale Rd. #1,T07N R02W S18 NWSW,"46ï¿½ï¿½5'ï¿½17""","-122ï¿½ï¿½59'ï¿½20""",F,Columbia,2/7/2012 11:28,Debris Burning,0.2,0.2
+2012,53 - Forest Grove,Columbia City,56,Beaver Homes #1,T06N R02W S16 SENE,"46ï¿½ï¿½0'ï¿½17""","-122ï¿½ï¿½55'ï¿½42""",F,Columbia,4/15/2012 15:02,Miscellaneous,0.01,0.01
+2012,53 - Forest Grove,Columbia City,57,Rainier Hill #1,T07N R03W S12 SESE,"46ï¿½ï¿½5'ï¿½58""","-122ï¿½ï¿½59'ï¿½34""",L,Columbia,6/21/2012 9:37,Equipment Use,0.01,0.01
+2012,53 - Forest Grove,Columbia City,66,Maple Crest Road #1,T06N R02W S35 NWNW,"45ï¿½ï¿½57'ï¿½59""","-122ï¿½ï¿½53'ï¿½7""",R,Columbia,10/3/2012 10:10,Juveniles,0.1,0.1
+2012,53 - Forest Grove,Columbia City,68,Pittsburg Road #1,T05N R02W S26 SWSW,"45ï¿½ï¿½52'ï¿½59""","-122ï¿½ï¿½54'ï¿½17""",L,Columbia,10/5/2012 16:00,Miscellaneous,5,5
+2012,53 - Forest Grove,Columbia City,69,Smith Rd. #1,T05N R02W S24 NWSE,"45ï¿½ï¿½54'ï¿½17""","-122ï¿½ï¿½52'ï¿½37""",R,Columbia,10/6/2012 16:14,Miscellaneous,1.5,1.5
+2012,53 - Forest Grove,Forest Grove,70,Storey Burn Fire,T02N R06W S25 SENW,"45ï¿½ï¿½37'ï¿½58""","-123ï¿½ï¿½22'ï¿½28""",H,Washington,9/16/2012 9:57,Recreationist,0,0.01
+2012,53 - Forest Grove,Columbia City,72,Orr Rd. #1,T06N R02W S27 NENW,"45ï¿½ï¿½58'ï¿½46""","-122ï¿½ï¿½55'ï¿½17""",X,Columbia,10/8/2012 14:15,Miscellaneous,0,0.25
+2012,53 - Forest Grove,Forest Grove,79,Green Mt Burn,T03N R04W S36 SESW,"45ï¿½ï¿½41'ï¿½49""","-123ï¿½ï¿½7'ï¿½43""",F,Washington,9/29/2012 15:58,Juveniles,0,0.01
+2012,53 - Forest Grove,Forest Grove,80,Scoggins Valley Rd Fire,T01N R05W S19 NENE,"45ï¿½ï¿½33'ï¿½43""","-123ï¿½ï¿½20'ï¿½45""",H,Washington,9/30/2012 12:05,Recreationist,0,0.29
+2012,53 - Forest Grove,Forest Grove,84,Goodin Creek Fire,T02S R04W S11 NENE,"45ï¿½ï¿½24'ï¿½58""","-123ï¿½ï¿½8'ï¿½7""",L,Yamhill,10/3/2012 14:30,Miscellaneous,0,0.1
+2012,53 - Forest Grove,Forest Grove,85,Bailey's Wood Chip Fire,T02S R04W S31 NESE,"45ï¿½ï¿½21'ï¿½5""","-123ï¿½ï¿½13'ï¿½17""",J,Yamhill,10/3/2012 20:41,Miscellaneous,0,0.02
+2012,53 - Forest Grove,Forest Grove,93,French Fire,T03S R04W S28 SWSW,"45ï¿½ï¿½16'ï¿½35""","-123ï¿½ï¿½11'ï¿½36""",L,Yamhill,10/6/2012 9:39,Smoking,0,1.5
+2012,53 - Forest Grove,Forest Grove,98,Johnson Road Fire,T02N R02W S22 SWNE,"45ï¿½ï¿½38'ï¿½42""","-122ï¿½ï¿½55'ï¿½24""",K,Multnomah,2/4/2012 18:30,Debris Burning,0,1.5
+2012,53 - Forest Grove,Forest Grove,99,Mattress Fire,T03S R05W S11 SENE,"45ï¿½ï¿½19'ï¿½35""","-123ï¿½ï¿½15'ï¿½48""",X,Yamhill,5/9/2012 15:10,Debris Burning,0,0.1
+2012,53 - Forest Grove,Forest Grove,100,Ridge Rd Fire,T03N R05W S23 SWSE,"45ï¿½ï¿½43'ï¿½25""","-123ï¿½ï¿½15'ï¿½41""",J,Washington,5/13/2012 15:10,Recreationist,17,17
+2012,55 - Western Oregon,Toledo,1,Beverly Fire,T09S R11W S32 SWSW,"44ï¿½ï¿½44'ï¿½26""","-124ï¿½ï¿½3'ï¿½28""",X,Lincoln,8/2/2012 11:00,Recreationist,0.01,0.01
+2012,55 - Western Oregon,Dallas,2,WILLAMINA CREEK BLM,T04S R07W S24 SWSW,"45ï¿½ï¿½12'ï¿½12""","-123ï¿½ï¿½30'ï¿½13""",L,Yamhill,7/24/2012 13:23,Equipment Use,0.01,0.01
+2012,55 - Western Oregon,Philomath,3,Soap Creek Power,T10S R05W S24 NWSE,"44ï¿½ï¿½41'ï¿½5""","-123ï¿½ï¿½14'ï¿½26""",L,Benton,7/8/2012 19:15,Equipment Use,0.07,0.07
+2012,55 - Western Oregon,Dallas,4,PEDEE CAR FIRE,T09S R06W S33 NESW,"44ï¿½ï¿½44'ï¿½39""","-123ï¿½ï¿½25'ï¿½47""",F,Polk,8/5/2012 12:45,Equipment Use,0.1,0.1
+2012,55 - Western Oregon,Toledo,6,S. JETTY,T11S R11W S17 SESE,"44ï¿½ï¿½36'ï¿½55""","-124ï¿½ï¿½3'ï¿½45""",X,Lincoln,8/16/2012 12:46,Recreationist,0.01,0.01
+2012,55 - Western Oregon,Toledo,9,Lincoln Beach Fire,T07S R11W S34 SWSW,"44ï¿½ï¿½59'ï¿½39""","-124ï¿½ï¿½1'ï¿½16""",X,Lincoln,8/24/2012 15:33,Recreationist,0.01,0.01
+2012,55 - Western Oregon,Toledo,11,Sturdevant Fire,T11S R10W S04 SWSW,"44ï¿½ï¿½38'ï¿½22""","-123ï¿½ï¿½55'ï¿½6""",F,Lincoln,8/31/2012 14:00,Equipment Use,0.01,0.01
+2012,55 - Western Oregon,Dallas,12,Sawtell Road,T06S R07W S13 SENW,"45ï¿½ï¿½3'ï¿½16""","-123ï¿½ï¿½29'ï¿½32""",L,Polk,8/30/2012 11:55,Miscellaneous,0.2,0.2
+2012,55 - Western Oregon,Dallas,13,Ballard Road,T08S R05W S11 NESW,"44ï¿½ï¿½53'ï¿½33""","-123ï¿½ï¿½16'ï¿½14""",H,Polk,9/1/2012 17:36,Miscellaneous,0.1,0.1
+2012,55 - Western Oregon,Toledo,13,Station Fire,T10S R11W S32 NENE,"44ï¿½ï¿½39'ï¿½50""","-124ï¿½ï¿½2'ï¿½50""",H,Lincoln,9/10/2012 17:31,Recreationist,0.01,0.01
+2012,55 - Western Oregon,Toledo,14,51st STREET FIRE,T07S R11W S34 NWNW,"44ï¿½ï¿½55'ï¿½41""","-124ï¿½ï¿½1'ï¿½23""",X,Lincoln,9/16/2012 15:57,Recreationist,0.02,0.02
+2012,55 - Western Oregon,Philomath,16,HIGHWAY 34 FIRE,T13S R07W S02 SESW,"44ï¿½ï¿½27'ï¿½42""","-123ï¿½ï¿½30'ï¿½36""",L,Benton,8/27/2012 15:41,Smoking,0.01,0.01
+2012,55 - Western Oregon,Toledo,16,McCaffery Slough Fire,T12S R11W S03 NENE,"44ï¿½ï¿½33'ï¿½55""","-124ï¿½ï¿½0'ï¿½10""",I,Lincoln,9/23/2012 16:47,Debris Burning,0.01,0.01
+2012,55 - Western Oregon,Toledo,17,104 FIRE,T07S R09W S01 NWNW,"44ï¿½ï¿½59'ï¿½57""","-123ï¿½ï¿½44'ï¿½28""",J,Lincoln,9/29/2012 15:21,Recreationist,0.65,0.65
+2012,55 - Western Oregon,Dallas,18,Willamina Creek,T04S R07W S36 SWSW,"45ï¿½ï¿½10'ï¿½48""","-123ï¿½ï¿½29'ï¿½42""",L,Polk,10/3/2012 14:55,Debris Burning,0.31,0.31
+2012,55 - Western Oregon,Dallas,20,Red Prairie,T06S R06W S34 SWNE,"45ï¿½ï¿½0'ï¿½28""","-123ï¿½ï¿½24'ï¿½11""",F,Polk,10/5/2012 17:21,Equipment Use,3,3
+2012,55 - Western Oregon,Toledo,21,Park Lane Fire,T07S R11W S01 NESE,"44ï¿½ï¿½59'ï¿½29""","-123ï¿½ï¿½58'ï¿½2""",F,Lincoln,10/4/2012 18:00,Debris Burning,0.1,0.1
+2012,55 - Western Oregon,Toledo,22,Salmon River,T06S R09W S30 NENE,"45ï¿½ï¿½1'ï¿½33""","-123ï¿½ï¿½49'ï¿½48""",H,Lincoln,10/5/2012 13:10,Miscellaneous,6,6
+2012,55 - Western Oregon,Dallas,23,Waymire Fire,T08S R06W S11 NWNE,"44ï¿½ï¿½53'ï¿½48""","-123ï¿½ï¿½23'ï¿½14""",F,Polk,5/12/2012 15:30,Debris Burning,0.3,0.3
+2012,55 - Western Oregon,Toledo,24,Red Ribbon Fire,T10S R11E S33 SWNW,"44ï¿½ï¿½39'ï¿½33""","-124ï¿½ï¿½2'ï¿½48""",H,Lincoln,10/6/2012 17:20,Smoking,0.01,0.01
+2012,55 - Western Oregon,Toledo,25,Criteser Loop Fire,T11S R10W S30 SWNE,"44ï¿½ï¿½35'ï¿½33""","-123ï¿½ï¿½56'ï¿½54""",F,Lincoln,10/8/2012 12:00,Miscellaneous,0.07,0.07
+2012,55 - Western Oregon,Philomath,27,Hidden Valley Fire,T11S R06W S23 NWNW,"44ï¿½ï¿½36'ï¿½16""","-123ï¿½ï¿½23'ï¿½26""",L,Benton,10/6/2012 13:28,Equipment Use,0.75,0.75
+2012,55 - Western Oregon,Philomath,28,DIAMOND FIRE,T11S R05W S02 SWSE,"44ï¿½ï¿½38'ï¿½19""","-123ï¿½ï¿½15'ï¿½36""",L,Benton,10/9/2012 12:50,Debris Burning,0.04,0.04
+2012,55 - Western Oregon,Philomath,32,Slide Creek,T13S R07W S07 SESE,"44ï¿½ï¿½27'ï¿½1""","-123ï¿½ï¿½34'ï¿½45""",H,Benton,10/20/2012 7:30,Recreationist,0.01,0.01
+2012,55 - Western Oregon,Toledo,34,Snow Machine,T09S R09W S14 SENW,"44ï¿½ï¿½47'ï¿½32""","-123ï¿½ï¿½45'ï¿½16""",X,Lincoln,3/21/2012 15:00,Equipment Use,0.01,0.01
+2012,55 - Western Oregon,Toledo,35,Southern Exposure,T11S R08W S22 SENW,"44ï¿½ï¿½36'ï¿½11""","-123ï¿½ï¿½39'ï¿½21""",X,Lincoln,4/17/2012 15:00,Equipment Use,0.01,0.01
+2012,58 - North Cascade,Molalla,1,LARCH MTN,T01N R05E S36 NWNE,"45ï¿½ï¿½31'ï¿½57""","-122ï¿½ï¿½7'ï¿½56""",H,Multnomah,7/2/2012 13:33,Miscellaneous,0.01,0.01
+2012,58 - North Cascade,Molalla,10,GRAVEL LN,T02S R04E S33 NESW,"45ï¿½ï¿½21'ï¿½5""","-122ï¿½ï¿½19'ï¿½20""",K,Clackamas,7/21/2012 15:45,Debris Burning,0.01,0.01
+2012,58 - North Cascade,Santiam,10,EGAN,T07S R01W S16 SENW,"44ï¿½ï¿½57'ï¿½51""","-122ï¿½ï¿½48'ï¿½41""",F,Marion,8/7/2012 14:01,Debris Burning,0,2
+2012,58 - North Cascade,Santiam,20,LITTLE N. FORK DITCH,T08S R03E S36 SWSE,"44ï¿½ï¿½49'ï¿½37""","-122ï¿½ï¿½22'ï¿½59""",L,Marion,8/22/2012 14:45,Equipment Use,0.01,0.01
+2012,58 - North Cascade,Molalla,21,UPPER HIGHLAND,T04S R03E S12 NWNW,"45ï¿½ï¿½14'ï¿½40""","-122ï¿½ï¿½23'ï¿½35""",X,Clackamas,8/3/2012 18:31,Debris Burning,0.01,0.01
+2012,58 - North Cascade,Molalla,22,EAST BARTON,T02S R03E S23 NESW,"45ï¿½ï¿½22'ï¿½53""","-122ï¿½ï¿½24'ï¿½15""",L,Clackamas,8/4/2012 16:18,Juveniles,0.1,0.1
+2012,58 - North Cascade,Santiam,22,DRIFT CREEK,T07S R01E S33 SWNW,"44ï¿½ï¿½55'ï¿½10""","-122ï¿½ï¿½42'ï¿½7""",L,Marion,8/28/2012 13:16,Equipment Use,2,2
+2012,58 - North Cascade,Molalla,23,WRIGHT CAR,T05S R02E S14 NWNE,"45ï¿½ï¿½8'ï¿½24""","-122ï¿½ï¿½31'ï¿½25""",L,Clackamas,8/4/2012 17:36,Equipment Use,0.01,0.01
+2012,58 - North Cascade,Molalla,25,BUCKNER CREEK,T04S R02E S10 NWSE,"45ï¿½ï¿½14'ï¿½6""","-122ï¿½ï¿½32'ï¿½32""",F,Clackamas,8/5/2012 15:30,Equipment Use,0.3,0.3
+2012,58 - North Cascade,Santiam,28,BROKEN TOP,T09S R04E S30 NESW,"44ï¿½ï¿½45'ï¿½28""","-122ï¿½ï¿½22'ï¿½8""",R,Marion,9/13/2012 7:20,Equipment Use,0.1,0.1
+2012,58 - North Cascade,Santiam,31,South Abiqua,T06S R01E S28 SWSW,"45ï¿½ï¿½0'ï¿½56""","-122ï¿½ï¿½42'ï¿½1""",J,Marion,5/15/2012 11:40,Debris Burning,8,8
+2012,58 - North Cascade,Santiam,32,BERRY BRUSH,T09S R01E S07 SWSE,"44ï¿½ï¿½47'ï¿½43""","-122ï¿½ï¿½43'ï¿½54""",F,Marion,9/15/2012 12:48,Debris Burning,0.5,0.5
+2012,58 - North Cascade,Santiam,33,HWY 226 POWERLINE FIRE,T09S R02E S18 SWNE,"44ï¿½ï¿½47'ï¿½24""","-122ï¿½ï¿½37'ï¿½6""",L,Marion,6/20/2012 16:30,Equipment Use,0.01,0.01
+2012,58 - North Cascade,Santiam,33,X-MAS PILE,T10S R03E S14 NWNE,"44ï¿½ï¿½42'ï¿½25""","-122ï¿½ï¿½24'ï¿½18""",X,Linn,9/16/2012 17:05,Arson,0.01,0.01
+2012,58 - North Cascade,Santiam,39,BLOWOUT,T10S R06E S17 SENW,"44ï¿½ï¿½42'ï¿½30""","-122ï¿½ï¿½6'ï¿½19""",F,Marion,10/1/2012 14:03,Smoking,0.25,0.25
+2012,58 - North Cascade,Santiam,41,FERRY RD,T09S R01E S14 NWSW,"44ï¿½ï¿½47'ï¿½7""","-122ï¿½ï¿½39'ï¿½27""",L,Marion,10/5/2012 7:00,Equipment Use,0.01,0.01
+2012,58 - North Cascade,Santiam,42,RIVERHAVEN,T09S R01E S14 NWSE,"44ï¿½ï¿½47'ï¿½4""","-122ï¿½ï¿½58'ï¿½52""",R,Marion,10/7/2012 7:06,Recreationist,1,1
+2012,58 - North Cascade,Santiam,46,MILL CITY,T09S R02E S25 SENE,"44ï¿½ï¿½45'ï¿½32""","-122ï¿½ï¿½29'ï¿½56""",H,Marion,10/9/2012 13:00,Arson,1,1
+2012,58 - North Cascade,Molalla,48,LEFT OFF HUNTER RD,T05S R04E S07 SWSE,"45ï¿½ï¿½8'ï¿½45""","-122ï¿½ï¿½21'ï¿½26""",X,Clackamas,8/26/2012 10:00,Recreationist,0.01,0.01
+2012,58 - North Cascade,Molalla,50,UPPER HIGHLAND #2,T04S R03E S06 NWSW,"45ï¿½ï¿½14'ï¿½58""","-122ï¿½ï¿½28'ï¿½28""",L,Clackamas,8/31/2012 18:23,Smoking,0.01,0.01
+2012,58 - North Cascade,Molalla,51,FARADAY,T04S R04E S02 NENE,"45ï¿½ï¿½14'ï¿½39""","-122ï¿½ï¿½16'ï¿½24""",L,Clackamas,8/31/2012 18:23,Smoking,0.1,0.1
+2012,58 - North Cascade,Molalla,55,ELWOOD BURN PILE,T04S R04E S19 NESW,"45ï¿½ï¿½12'ï¿½19""","-122ï¿½ï¿½21'ï¿½59""",F,Clackamas,9/1/2012 18:00,Debris Burning,0.01,0.01
+2012,58 - North Cascade,Molalla,55,FALL CREEK,T04S R04E S02 NESW,"45ï¿½ï¿½15'ï¿½20""","-122ï¿½ï¿½16'ï¿½46""",K,Clackamas,5/19/2012 19:15,Debris Burning,1,1
+2012,58 - North Cascade,Molalla,59,RINGO RD,T04S R02E S21 NESE,"45ï¿½ï¿½12'ï¿½28""","-122ï¿½ï¿½33'ï¿½42""",F,Clackamas,9/5/2012 13:15,Recreationist,0.03,0.03
+2012,58 - North Cascade,Molalla,62,LILIAN LN,T02S R04E S34 SENW,"45ï¿½ï¿½21'ï¿½19""","-122ï¿½ï¿½18'ï¿½17""",L,Clackamas,9/8/2012 13:30,Miscellaneous,0.02,0.02
+2012,58 - North Cascade,Molalla,63,EAGLE VIEW,T02S R04E S30 NENE,"45ï¿½ï¿½22'ï¿½22""","-122ï¿½ï¿½21'ï¿½25""",L,Clackamas,9/8/2012 15:23,Debris Burning,0.05,0.05
+2012,58 - North Cascade,Molalla,79,FIRWOOD ELEMENTARY TREE,T02S R05E S29 NENW,"45ï¿½ï¿½22'ï¿½25""","-122ï¿½ï¿½13'ï¿½16""",H,Clackamas,9/19/2012 14:05,Juveniles,0.01,0.01
+2012,58 - North Cascade,Molalla,94,CEDAR CREEK POWERLINES,T04S R03E S17 NWNW,"45ï¿½ï¿½13'ï¿½43""","-122ï¿½ï¿½28'ï¿½20""",H,Clackamas,10/3/2012 10:08,Equipment Use,0.01,0.01
+2012,58 - North Cascade,Molalla,96,INN BETWEEN,T02S R07E S32 NWSE,"45ï¿½ï¿½21'ï¿½0""","-121ï¿½ï¿½58'ï¿½12""",R,Clackamas,10/3/2012 16:36,Equipment Use,0.05,0.05
+2012,58 - North Cascade,Molalla,101,BORNSTEDT,T02S R05E S31 NESW,"45ï¿½ï¿½21'ï¿½8""","-122ï¿½ï¿½14'ï¿½28""",L,Clackamas,10/5/2012 13:00,Debris Burning,0.05,0.05
+2012,58 - North Cascade,Molalla,102,BRIGHTWOOD LOOP,T02S R07E S30 SWNW,"45ï¿½ï¿½22'ï¿½9""","-122ï¿½ï¿½0'ï¿½10""",H,Clackamas,10/5/2012 13:30,Equipment Use,0.01,0.01
+2012,58 - North Cascade,Molalla,103,HILLOCKBURN,T04S R04E S22 NWNW,"45ï¿½ï¿½12'ï¿½48""","-122ï¿½ï¿½18'ï¿½34""",H,Clackamas,10/5/2012 14:00,Debris Burning,0.01,0.01
+2012,58 - North Cascade,Molalla,107,224 FLARE,T03S R04E S28 SENW,"45ï¿½ï¿½16'ï¿½57""","-122ï¿½ï¿½19'ï¿½40""",L,Clackamas,10/5/2012 20:10,Arson,0.01,0.01
+2012,58 - North Cascade,Molalla,108,UNION MILLS,T04S R02E S35 NESW,"45ï¿½ï¿½10'ï¿½34""","-122ï¿½ï¿½31'ï¿½42""",L,Clackamas,10/7/2012 13:05,Equipment Use,0.1,0.1
+2012,58 - North Cascade,Molalla,115,DIANNE BRUSH,T04S R03E S09 NENW,"45ï¿½ï¿½14'ï¿½34""","-122ï¿½ï¿½27'ï¿½1""",X,Clackamas,10/8/2012 12:15,Debris Burning,1,1
+2012,58 - North Cascade,Molalla,116,GRAVES GRASS,T04S R02E S16 NESW,"45ï¿½ï¿½13'ï¿½26""","-122ï¿½ï¿½33'ï¿½41""",A,Clackamas,10/9/2012 12:24,Arson,1,1
+2012,58 - North Cascade,Molalla,119,BRIGHTWOOD LOOP II,T02S R07E S30 NWSW,"45ï¿½ï¿½22'ï¿½1""","-122ï¿½ï¿½0'ï¿½10""",X,Clackamas,10/11/2012 13:15,Debris Burning,0.2,0.2
+2012,71 - Southwest,Medford,3,Oak Ridge,T34S R01W S15 SWNW,"42ï¿½ï¿½36'ï¿½53""","-122ï¿½ï¿½48'ï¿½49""",A,Jackson,7/2/2012 11:26,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Medford,5,4332 Fern Valley Rd,T38S R01W S10 SESE,"42ï¿½ï¿½16'ï¿½23""","-122ï¿½ï¿½47'ï¿½55""",L,Jackson,7/2/2012 19:47,Equipment Use,1.3,1.3
+2012,71 - Southwest,Medford,6,Butler Creek,T38S R01E S28 SENW,"42ï¿½ï¿½14'ï¿½21""","-122ï¿½ï¿½42'ï¿½43""",A,Jackson,7/4/2012 13:48,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,7,Takilma Rd 7816,T40S R08W S23 NESW,"42ï¿½ï¿½4'ï¿½23""","-123ï¿½ï¿½36'ï¿½49""",A,Josephine,7/3/2012 11:30,Juveniles,0.1,0.1
+2012,71 - Southwest,Medford,8,May Creek,T34S R03W S29 NWSW,"42ï¿½ï¿½35'ï¿½5""","-123ï¿½ï¿½5'ï¿½23""",A,Jackson,7/4/2012 17:12,Miscellaneous,0.5,0.5
+2012,71 - Southwest,Grants Pass,8,E. Evans Crk 8576,T35S R04W S10 SESE,"42ï¿½ï¿½32'ï¿½18""","-123ï¿½ï¿½9'ï¿½13""",A,Jackson,7/3/2012 16:00,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Grants Pass,11,Upper River Road 2400,T36S R06W S12 SWSE,"42ï¿½ï¿½26'ï¿½58""","-123ï¿½ï¿½21'ï¿½15""",A,Josephine,7/4/2012 17:58,Miscellaneous,1.3,1.3
+2012,71 - Southwest,Medford,13,Emigrant Lake 2,T39S R02E S31 NWNE,"42ï¿½ï¿½8'ï¿½26""","-122ï¿½ï¿½37'ï¿½35""",L,Jackson,7/4/2012 21:57,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Grants Pass,15,Lake Selmac,T38S R07W S18 SESW,"42ï¿½ï¿½15'ï¿½31""","-123ï¿½ï¿½34'ï¿½34""",H,Josephine,7/5/2012 13:55,Smoking,0.1,0.1
+2012,71 - Southwest,Medford,16,Terri Dr,T37S R01W S36 SESW,"42ï¿½ï¿½18'ï¿½7""","-122ï¿½ï¿½46'ï¿½12""",A,Jackson,7/5/2012 12:31,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Medford,19,11894 Upper Applegate Rd,T40S R03W S08 SWSW,"42ï¿½ï¿½5'ï¿½56""","-123ï¿½ï¿½5'ï¿½24""",L,Jackson,7/6/2012 15:16,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,21,Ragsdale Rd.,T34S R01W S09 NENE,"42ï¿½ï¿½38'ï¿½6""","-122ï¿½ï¿½49'ï¿½6""",C,Jackson,7/7/2012 12:16,Miscellaneous,0.25,0.25
+2012,71 - Southwest,Grants Pass,21,I-5 MP 45 SB,T36S R04W S25 NENW,"42ï¿½ï¿½25'ï¿½2""","-123ï¿½ï¿½7'ï¿½27""",A,Jackson,7/7/2012 14:50,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Medford,22,Rising Glen,T36S R02W S30 SESE,"42ï¿½ï¿½24'ï¿½18""","-122ï¿½ï¿½58'ï¿½35""",L,Jackson,7/7/2012 13:38,Juveniles,0.1,0.1
+2012,71 - Southwest,Medford,28,4609 Bellinger Ln,T37S R02W S33 NESW,"42ï¿½ï¿½18'ï¿½26""","-122ï¿½ï¿½56'ï¿½39""",R,Jackson,7/8/2012 18:17,Recreationist,2.21,2.21
+2012,71 - Southwest,Medford,30,Holcomb Springs,T35S R03W S26 SENE,"42ï¿½ï¿½29'ï¿½59""","-123ï¿½ï¿½1'ï¿½0""",A,Jackson,7/9/2012 11:05,Equipment Use,2.5,2.5
+2012,71 - Southwest,Grants Pass,30,W. Evans Creek Rd. 4957,T35S R04W S28 NWSW,"42ï¿½ï¿½29'ï¿½45""","-123ï¿½ï¿½11'ï¿½10""",A,Jackson,7/10/2012 13:45,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,34,Applegate Dam,T40S R03W S30 SWNW,"42ï¿½ï¿½3'ï¿½52""","-123ï¿½ï¿½6'ï¿½32""",A,Jackson,7/9/2012 20:19,Recreationist,1.06,1.06
+2012,71 - Southwest,Grants Pass,36,Monument Drive,T35S R06W S25 NWSW,"42ï¿½ï¿½29'ï¿½48""","-123ï¿½ï¿½21'ï¿½59""",A,Josephine,7/13/2012 18:23,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Grants Pass,37,Monument Drive #2,T35S R06W S25 NWSW,"42ï¿½ï¿½29'ï¿½53""","-123ï¿½ï¿½21'ï¿½54""",C,Josephine,7/13/2012 20:00,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Medford,40,Anderson Butte,T38S R02W S23 SWSE,"42ï¿½ï¿½14'ï¿½42""","-122ï¿½ï¿½54'ï¿½16""",I,Jackson,7/13/2012 17:50,Equipment Use,4,4
+2012,71 - Southwest,Grants Pass,40,New Hope 8151,T37S R05W S18 SESW,"42ï¿½ï¿½20'ï¿½56""","-123ï¿½ï¿½20'ï¿½31""",A,Josephine,7/15/2012 18:56,Smoking,0.2,0.2
+2012,71 - Southwest,Grants Pass,42,Skycrest 300,T36S R05W S29 SENW,"42ï¿½ï¿½24'ï¿½48""","-123ï¿½ï¿½19'ï¿½16""",A,Josephine,7/16/2012 5:30,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Medford,44,2373 Brownsboro Hwy,T35S R01W S36 SWNE,"42ï¿½ï¿½28'ï¿½57""","-122ï¿½ï¿½45'ï¿½53""",A,Jackson,7/15/2012 12:38,Equipment Use,0.1,0.1
+2012,71 - Southwest,Grants Pass,47,Deer Creek Rd 900,T38S R08W S12 SENW,"42ï¿½ï¿½16'ï¿½47""","-123ï¿½ï¿½35'ï¿½52""",H,Josephine,7/16/2012 16:00,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Grants Pass,49,Coyote Creek,T33S R05W S22 SESW,"42ï¿½ï¿½41'ï¿½1""","-123ï¿½ï¿½16'ï¿½43""",G,Josephine,7/17/2012 3:38,Lightning,0.1,0.1
+2012,71 - Southwest,Medford,52,12498 Upper Applegate Rd,T40S R03W S18 SWNE,"42ï¿½ï¿½5'ï¿½34""","-123ï¿½ï¿½6'ï¿½1""",A,Jackson,7/17/2012 3:14,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Grants Pass,52,Slagle Creek,T37S R04W S33 NESW,"42ï¿½ï¿½18'ï¿½23""","-123ï¿½ï¿½11'ï¿½4""",C,Jackson,7/17/2012 16:15,Lightning,0.01,0.01
+2012,71 - Southwest,Medford,54,Flume Gulch,T40S R03W S05 SENE,"42ï¿½ï¿½7'ï¿½22""","-123ï¿½ï¿½4'ï¿½22""",H,Jackson,7/17/2012 14:56,Lightning,0.01,0.01
+2012,71 - Southwest,Medford,56,Boaz Mountain,T39S R03W S33 NESE,"42ï¿½ï¿½7'ï¿½53""","-123ï¿½ï¿½3'ï¿½15""",J,Jackson,7/17/2012 15:20,Lightning,0.1,0.1
+2012,71 - Southwest,Medford,59,Mill Hollow,T34S R02W S16 NENW,"42ï¿½ï¿½37'ï¿½17""","-122ï¿½ï¿½56'ï¿½58""",C,Jackson,7/17/2012 21:45,Lightning,0.01,0.01
+2012,71 - Southwest,Medford,60,Salt Spring,T33S R03W S15 SESW,"42ï¿½ï¿½41'ï¿½50""","-123ï¿½ï¿½2'ï¿½46""",J,Jackson,7/18/2012 15:23,Lightning,0.25,0.25
+2012,71 - Southwest,Medford,64,Buck Flat,T34S R02W S04 NENE,"42ï¿½ï¿½38'ï¿½55""","-122ï¿½ï¿½56'ï¿½9""",C,Jackson,7/17/2012 19:49,Lightning,0.01,0.01
+2012,71 - Southwest,Grants Pass,72,Lind Road 134,T36S R07W S13 SESW,"42ï¿½ï¿½26'ï¿½9""","-123ï¿½ï¿½28'ï¿½40""",H,Josephine,7/20/2012 23:04,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Medford,74,Britt Gardens,T37S R02W S32 NWNW,"42ï¿½ï¿½18'ï¿½56""","-122ï¿½ï¿½58'ï¿½24""",B,Jackson,7/23/2012 19:05,Smoking,0.1,0.1
+2012,71 - Southwest,Grants Pass,75,Rockydale #1,T40S R08W S22 NWSE,"42ï¿½ï¿½4'ï¿½16""","-123ï¿½ï¿½37'ï¿½44""",H,Josephine,7/22/2012 19:20,Arson,0.01,0.01
+2012,71 - Southwest,Grants Pass,76,Rockydale #2,T40S R08W S22 SWSE,"42ï¿½ï¿½4'ï¿½15""","-123ï¿½ï¿½37'ï¿½46""",H,Josephine,7/22/2012 19:20,Arson,0.01,0.01
+2012,71 - Southwest,Grants Pass,77,Rockydale #3,T40S R08W S22 NWSE,"42ï¿½ï¿½4'ï¿½17""","-123ï¿½ï¿½37'ï¿½47""",H,Josephine,7/22/2012 19:20,Arson,0.01,0.01
+2012,71 - Southwest,Medford,79,482 Red Blanket Rd,T32S R03E S27 NESW,"42ï¿½ï¿½45'ï¿½23""","-122ï¿½ï¿½27'ï¿½5""",L,Jackson,7/26/2012 12:45,Equipment Use,0.13,0.13
+2012,71 - Southwest,Medford,80,Kane Creek,T37S R03W S10 NESE,"42ï¿½ï¿½21'ï¿½58""","-123ï¿½ï¿½2'ï¿½1""",C,Jackson,7/26/2012 15:17,Recreationist,0.25,0.25
+2012,71 - Southwest,Medford,81,1275 Upper River Rd,T36S R03W S10 NESE,"42ï¿½ï¿½27'ï¿½19""","-123ï¿½ï¿½2'ï¿½14""",C,Jackson,7/27/2012 10:15,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,82,Worthington Rd,T35S R01E S28 SENE,"42ï¿½ï¿½30'ï¿½7""","-122ï¿½ï¿½42'ï¿½3""",R,Jackson,7/28/2012 11:08,Recreationist,0.01,0.01
+2012,71 - Southwest,Grants Pass,82,Suncrest #1,T40S R08W S20 NESE,"42ï¿½ï¿½4'ï¿½18""","-123ï¿½ï¿½39'ï¿½45""",H,Josephine,7/24/2012 20:31,Arson,1,1
+2012,71 - Southwest,Medford,85,Abbott Prairie,T32S R01E S01 NWNW,"42ï¿½ï¿½49'ï¿½16""","-122ï¿½ï¿½39'ï¿½23""",K,Jackson,7/29/2012 14:39,Recreationist,0.5,0.5
+2012,71 - Southwest,Grants Pass,88,Dutchy Way 380,T36S R07W S22 NWNE,"42ï¿½ï¿½25'ï¿½54""","-123ï¿½ï¿½30'ï¿½51""",F,Josephine,7/26/2012 20:16,Equipment Use,0.1,0.1
+2012,71 - Southwest,Medford,90,9725 Hwy 234 (PP 6/017),T36S R02W S06 SWNE,"42ï¿½ï¿½28'ï¿½21""","-122ï¿½ï¿½58'ï¿½51""",A,Jackson,7/31/2012 22:30,Equipment Use,0.1,0.1
+2012,71 - Southwest,Medford,91,5827 Old Stage Rd,T36S R02W S31 SWSW,"42ï¿½ï¿½23'ï¿½32""","-122ï¿½ï¿½59'ï¿½36""",F,Jackson,8/1/2012 8:15,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,91,PP D11801 (Redwd Hwy #1),T38S R08W S11 SENW,"42ï¿½ï¿½17'ï¿½3""","-123ï¿½ï¿½36'ï¿½56""",L,Josephine,7/30/2012 13:40,Equipment Use,1.8,1.8
+2012,71 - Southwest,Grants Pass,92,Caves Hwy 2110,T39S R08W S26 SWNE,"42ï¿½ï¿½8'ï¿½53""","-123ï¿½ï¿½36'ï¿½44""",A,Josephine,7/30/2012 14:24,Juveniles,0.01,0.01
+2012,71 - Southwest,Medford,93,Sterling Ditch,T38S R02W S35 SESW,"42ï¿½ï¿½13'ï¿½4""","-122ï¿½ï¿½54'ï¿½34""",G,Jackson,8/1/2012 14:50,Recreationist,6,6
+2012,71 - Southwest,Medford,95,Hwy 140 MM 23.5,T37S R03E S02 NWNW,"42ï¿½ï¿½23'ï¿½16""","-122ï¿½ï¿½26'ï¿½35""",L,Jackson,8/1/2012 17:16,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,96,Kelsey Creek,T33S R09W S03 SWSE,"42ï¿½ï¿½43'ï¿½31""","-123ï¿½ï¿½44'ï¿½56""",H,Josephine,7/31/2012 17:49,Lightning,18,18
+2012,71 - Southwest,Medford,99,Hamilton Rd,T38S R03W S33 NENW,"42ï¿½ï¿½13'ï¿½45""","-123ï¿½ï¿½3'ï¿½58""",I,Jackson,8/3/2012 8:31,Smoking,0.1,0.1
+2012,71 - Southwest,Medford,100,Jones Rd,T35S R02W S11 NWSE,"42ï¿½ï¿½32'ï¿½28""","-122ï¿½ï¿½54'ï¿½9""",A,Jackson,8/3/2012 11:34,Equipment Use,3,3
+2012,71 - Southwest,Grants Pass,101,Granite Hill 6300,T35S R05W S27 NESE,"42ï¿½ï¿½29'ï¿½46""","-123ï¿½ï¿½16'ï¿½16""",A,Josephine,8/3/2012 10:12,Arson,0.01,0.01
+2012,71 - Southwest,Medford,109,1600 Dry Creek Rd,T37S R01W S01 NWSW,"42ï¿½ï¿½22'ï¿½45""","-122ï¿½ï¿½46'ï¿½27""",X,Jackson,8/6/2012 19:48,Miscellaneous,0.25,0.25
+2012,71 - Southwest,Grants Pass,109,Triller Ln 155,T37S R06W S13 SWNE,"42ï¿½ï¿½21'ï¿½24""","-123ï¿½ï¿½21'ï¿½21""",A,Josephine,8/7/2012 9:56,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Medford,110,330 Pair A Dice Ranch Rd,T37S R02W S30 SWSE,"42ï¿½ï¿½19'ï¿½8""","-122ï¿½ï¿½58'ï¿½52""",A,Jackson,8/7/2012 16:45,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,111,Buck Mountain,T32S R03E S26 NWSE,"42ï¿½ï¿½45'ï¿½18""","-122ï¿½ï¿½25'ï¿½33""",J,Jackson,8/8/2012 11:36,Equipment Use,0.1,0.1
+2012,71 - Southwest,Grants Pass,114,Peaceful Valley Ln 101,T36S R07W S11 SENW,"42ï¿½ï¿½27'ï¿½23""","-123ï¿½ï¿½29'ï¿½51""",A,Josephine,8/8/2012 3:54,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Grants Pass,122,Three Pines 410,T35S R06W S03 NWNE,"42ï¿½ï¿½33'ï¿½45""","-123ï¿½ï¿½23'ï¿½31""",F,Josephine,8/9/2012 13:36,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,123,Southbound MM40,T36S R03W S23 SWSE,"42ï¿½ï¿½25'ï¿½14""","-123ï¿½ï¿½1'ï¿½20""",A,Jackson,8/12/2012 13:26,Equipment Use,0.5,0.5
+2012,71 - Southwest,Medford,125,Middle Fork,T33S R03E S04 SENW,"42ï¿½ï¿½44'ï¿½7""","-122ï¿½ï¿½27'ï¿½46""",J,Jackson,8/13/2012 13:00,Smoking,0.8,0.8
+2012,71 - Southwest,Grants Pass,125,Ferry Rd 121,T36S R07W S01 NENW,"42ï¿½ï¿½28'ï¿½31""","-123ï¿½ï¿½28'ï¿½34""",R,Josephine,8/9/2012 20:32,Smoking,0.1,0.1
+2012,71 - Southwest,Medford,128,Lithia,T39S R01E S16 SWNW,"42ï¿½ï¿½10'ï¿½46""","-122ï¿½ï¿½43'ï¿½2""",K,Jackson,8/14/2012 17:59,Smoking,0.01,0.01
+2012,71 - Southwest,Grants Pass,128,N. Applegate Rd.,T38S R04W S07 SENE,"42ï¿½ï¿½16'ï¿½59""","-123ï¿½ï¿½12'ï¿½48""",A,Jackson,8/10/2012 14:41,Equipment Use,3.2,3.2
+2012,71 - Southwest,Grants Pass,129,Sleepy Hollow 1547,T37S R06W S05 NWSW,"42ï¿½ï¿½22'ï¿½42""","-123ï¿½ï¿½26'ï¿½27""",H,Josephine,8/10/2012 17:37,Smoking,0.25,0.25
+2012,71 - Southwest,Medford,135,2342 Dry CR RD (PP012600,T37S R01W S01 SENW,"42ï¿½ï¿½23'ï¿½5""","-122ï¿½ï¿½46'ï¿½19""",A,Jackson,8/16/2012 11:31,Equipment Use,1.07,1.07
+2012,71 - Southwest,Medford,136,Nugget Butte,T36S R03W S10 SESW,"42ï¿½ï¿½26'ï¿½56""","-123ï¿½ï¿½2'ï¿½45""",C,Jackson,8/16/2012 15:54,Miscellaneous,9,9
+2012,71 - Southwest,Grants Pass,138,Dorry Ln 250,T36S R05W S33 SESW,"42ï¿½ï¿½23'ï¿½29""","-123ï¿½ï¿½17'ï¿½56""",A,Josephine,8/12/2012 19:22,Equipment Use,0.1,0.1
+2012,71 - Southwest,Medford,142,I5 MM 40,T36S R03W S23 SWSE,"42ï¿½ï¿½25'ï¿½15""","-123ï¿½ï¿½1'ï¿½23""",L,Jackson,8/19/2012 15:39,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,151,Crickett Lane 240,T39S R08W S15 SWNE,"42ï¿½ï¿½10'ï¿½44""","-123ï¿½ï¿½37'ï¿½52""",H,Josephine,8/16/2012 18:01,Smoking,0.1,0.1
+2012,71 - Southwest,Grants Pass,156,Panther Gulch 1247,T39S R05W S11 SENE,"42ï¿½ï¿½11'ï¿½43""","-123ï¿½ï¿½15'ï¿½5""",H,Josephine,8/18/2012 16:30,Recreationist,1.4,1.4
+2012,71 - Southwest,Grants Pass,158,Moonbeam 481,T37S R06W S12 NWNE,"42ï¿½ï¿½22'ï¿½27""","-123ï¿½ï¿½21'ï¿½11""",A,Josephine,8/18/2012 22:42,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Medford,161,Twin Oaks,T38S R03W S28 NENW,"42ï¿½ï¿½14'ï¿½32""","-123ï¿½ï¿½3'ï¿½58""",C,Jackson,8/26/2012 17:35,Recreationist,1.3,1.3
+2012,71 - Southwest,Grants Pass,161,Hellgate,T35S R07W S10 NWNE,"42ï¿½ï¿½32'ï¿½53""","-123ï¿½ï¿½30'ï¿½40""",H,Josephine,8/20/2012 7:18,Smoking,0.01,0.01
+2012,71 - Southwest,Grants Pass,162,I-5 MP 48,T36S R04W S22 NESW,"42ï¿½ï¿½25'ï¿½24""","-123ï¿½ï¿½10'ï¿½15""",A,Jackson,8/20/2012 9:07,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,163,Hwy 238 16955,T38S R04W S17 SWSE,"42ï¿½ï¿½15'ï¿½34""","-123ï¿½ï¿½11'ï¿½49""",A,Jackson,8/20/2012 11:40,Miscellaneous,0.2,0.2
+2012,71 - Southwest,Medford,166,Dahlia Terrace,T35S R01W S33 SWSE,"42ï¿½ï¿½28'ï¿½39""","-122ï¿½ï¿½49'ï¿½29""",C,Jackson,8/27/2012 19:43,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Medford,167,Longnecker,T38S R03W S14 SWSW,"42ï¿½ï¿½15'ï¿½34""","-123ï¿½ï¿½1'ï¿½51""",A,Jackson,8/28/2012 13:13,Equipment Use,0.17,0.17
+2012,71 - Southwest,Grants Pass,170,Panther Gulch 1333,T39S R05W S12 SWSW,"42ï¿½ï¿½11'ï¿½20""","-123ï¿½ï¿½15'ï¿½0""",A,Jackson,8/20/2012 17:01,Miscellaneous,1.2,1.2
+2012,71 - Southwest,Medford,171,Jacksonville Reservoir,T37S R03W S25 NWNE,"42ï¿½ï¿½19'ï¿½40""","-123ï¿½ï¿½0'ï¿½2""",C,Jackson,8/29/2012 11:16,Smoking,0.01,0.01
+2012,71 - Southwest,Medford,176,Fort Complex,T47N R12W S28 NWNE,"41ï¿½ï¿½53'ï¿½56""","-123ï¿½ï¿½14'ï¿½30""",G,Other St.,8/5/2012 20:00,Lightning,0,23658
+2012,71 - Southwest,Medford,180,Obstinate J. Ranch,T33S R01E S33 SENW,"42ï¿½ï¿½39'ï¿½35""","-122ï¿½ï¿½42'ï¿½36""",C,Jackson,8/30/2012 16:51,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,183,Squires Peak,T38S R03W S35 SWSE,"42ï¿½ï¿½12'ï¿½59""","-123ï¿½ï¿½1'ï¿½6""",A,Jackson,9/1/2012 12:29,Recreationist,0.01,0.01
+2012,71 - Southwest,Medford,184,Emigrant Creek Rd #2,T39S R02E S07 SWSW,"42ï¿½ï¿½11'ï¿½19""","-122ï¿½ï¿½38'ï¿½8""",A,Jackson,9/1/2012 15:51,Recreationist,0.01,0.01
+2012,71 - Southwest,Grants Pass,187,Cloverlawn 5647,T37S R05W S08 NWSW,"42ï¿½ï¿½21'ï¿½58""","-123ï¿½ï¿½19'ï¿½35""",A,Josephine,8/25/2012 19:25,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Grants Pass,189,N. Applegate 18485,T38S R04W S22 NWNW,"42ï¿½ï¿½15'ï¿½25""","-123ï¿½ï¿½10'ï¿½18""",F,Jackson,8/26/2012 1:29,Miscellaneous,0.75,0.75
+2012,71 - Southwest,Medford,200,Maple Lane,T36S R03W S23 SENW,"42ï¿½ï¿½25'ï¿½41""","-123ï¿½ï¿½1'ï¿½36""",A,Jackson,9/8/2012 15:45,Recreationist,0.25,0.25
+2012,71 - Southwest,Medford,202,Left Fork Foots Cr,T37S R03W S07 SENW,"42ï¿½ï¿½22'ï¿½15""","-123ï¿½ï¿½6'ï¿½17""",A,Jackson,9/8/2012 19:04,Smoking,1.5,1.5
+2012,71 - Southwest,Medford,203,East Antelope,T36S R01E S30 NWSE,"42ï¿½ï¿½24'ï¿½31""","-122ï¿½ï¿½44'ï¿½51""",A,Jackson,9/9/2012 11:21,Debris Burning,0.1,0.1
+2012,71 - Southwest,Medford,204,Rogue River Hwy,T36S R03W S19 SENW,"42ï¿½ï¿½25'ï¿½41""","-123ï¿½ï¿½6'ï¿½17""",A,Jackson,9/9/2012 15:11,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,205,I5 MM 37,T36S R02W S30 SENE,"42ï¿½ï¿½24'ï¿½44""","-122ï¿½ï¿½58'ï¿½27""",A,Jackson,9/10/2012 8:45,Equipment Use,0.1,0.1
+2012,71 - Southwest,Medford,206,Wagner Creek,T39S R01W S26 SWNW,"42ï¿½ï¿½9'ï¿½4""","-122ï¿½ï¿½47'ï¿½43""",C,Jackson,9/10/2012 18:47,Smoking,0.2,0.2
+2012,71 - Southwest,Medford,208,Copco,T41S R04E S02 NWSW,"42ï¿½ï¿½1'ï¿½52""","-122ï¿½ï¿½19'ï¿½28""",A,Jackson,9/11/2012 14:53,Debris Burning,9.5,9.5
+2012,71 - Southwest,Grants Pass,208,Merlin Rd 2361,T35S R06W S27 SENE,"42ï¿½ï¿½29'ï¿½56""","-123ï¿½ï¿½23'ï¿½17""",C,Josephine,8/28/2012 13:47,Juveniles,0.01,0.01
+2012,71 - Southwest,Medford,211,Old Trail Creek,T33S R01W S33 NWSE,"42ï¿½ï¿½39'ï¿½28""","-122ï¿½ï¿½49'ï¿½33""",R,Jackson,9/13/2012 4:09,Smoking,0.25,0.25
+2012,71 - Southwest,Medford,212,Peninsula,T33S R03E S09 SENW,"42ï¿½ï¿½42'ï¿½52""","-122ï¿½ï¿½28'ï¿½14""",C,Jackson,9/13/2012 7:21,Smoking,0.5,0.5
+2012,71 - Southwest,Grants Pass,221,Sunny Valley Loop,T34S R06W S11 SENW,"42ï¿½ï¿½37'ï¿½48""","-123ï¿½ï¿½22'ï¿½36""",A,Josephine,8/30/2012 20:30,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Medford,224,Kershaw #3,T36S R01W S27 NWSE,"42ï¿½ï¿½24'ï¿½30""","-122ï¿½ï¿½48'ï¿½17""",A,Jackson,9/16/2012 14:10,Recreationist,0.01,0.01
+2012,71 - Southwest,Grants Pass,224,Highland Avenue 7407,T35S R06W S14 SENE,"42ï¿½ï¿½31'ï¿½53""","-123ï¿½ï¿½22'ï¿½4""",L,Josephine,9/1/2012 10:57,Recreationist,0.01,0.01
+2012,71 - Southwest,Medford,226,Blackwell,T36S R03W S25 NWNW,"42ï¿½ï¿½25'ï¿½6""","-123ï¿½ï¿½0'ï¿½43""",A,Jackson,9/17/2012 15:48,Equipment Use,0.12,0.12
+2012,71 - Southwest,Medford,226,South Fork Little Butte,T37S R02E S10 NENE,"42ï¿½ï¿½22'ï¿½23""","-122ï¿½ï¿½33'ï¿½45""",A,Jackson,1/12/2012 12:33,Debris Burning,3.7,3.7
+2012,71 - Southwest,Medford,227,Salt Creek,T36S R02E S03 SENE,"42ï¿½ï¿½28'ï¿½20""","-122ï¿½ï¿½33'ï¿½53""",C,Jackson,2/5/2012 16:15,Recreationist,1.5,1.5
+2012,71 - Southwest,Grants Pass,228,Pine Cone 699,T39S R08W S35 SWSW,"42ï¿½ï¿½7'ï¿½42""","-123ï¿½ï¿½37'ï¿½11""",F,Josephine,9/1/2012 14:59,Arson,6.25,6.25
+2012,71 - Southwest,Medford,229,Yale Crk,T40S R02W S04 NESE,"42ï¿½ï¿½6'ï¿½59""","-122ï¿½ï¿½56'ï¿½18""",A,Jackson,4/18/2012 13:22,Debris Burning,0.25,0.25
+2012,71 - Southwest,Medford,230,Wards Crk,T36S R03W S07 SENW,"42ï¿½ï¿½27'ï¿½26""","-123ï¿½ï¿½6'ï¿½24""",H,Jackson,4/23/2012 19:36,Lightning,0.01,0.01
+2012,71 - Southwest,Grants Pass,230,Provolt Seed Orchard,T38S R05W S01 NWSE,"42ï¿½ï¿½17'ï¿½37""","-123ï¿½ï¿½14'ï¿½19""",A,Josephine,9/2/2012 16:00,Miscellaneous,0.1,0.1
+2012,71 - Southwest,Medford,232,Barr Creek Falls,T32S R03E S29 NESW,"42ï¿½ï¿½45'ï¿½30""","-122ï¿½ï¿½29'ï¿½34""",U,Jackson,5/6/2012 17:00,Recreationist,1,1
+2012,71 - Southwest,Medford,232,Ragsdale,T34S R01W S03 SENW,"42ï¿½ï¿½38'ï¿½46""","-122ï¿½ï¿½48'ï¿½41""",C,Jackson,9/19/2012 13:59,Equipment Use,2.1,2.1
+2012,71 - Southwest,Medford,233,2929 Hwy 238,T38S R02W S06 SWSW,"42ï¿½ï¿½17'ï¿½20""","-122ï¿½ï¿½59'ï¿½37""",A,Jackson,9/19/2012 18:37,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,233,Slate Creek,T37S R07W S07 NWNE,"42ï¿½ï¿½22'ï¿½21""","-123ï¿½ï¿½34'ï¿½10""",A,Josephine,9/3/2012 13:09,Arson,154,154
+2012,71 - Southwest,Medford,234,Obenchain Rd,T35S R01E S26 SWNE,"42ï¿½ï¿½30'ï¿½0""","-122ï¿½ï¿½40'ï¿½0""",U,Jackson,5/12/2012 16:13,Debris Burning,0.5,0.5
+2012,71 - Southwest,Medford,235,Geppert Rd,T35S R02E S05 SENE,"42ï¿½ï¿½33'ï¿½35""","-122ï¿½ï¿½36'ï¿½3""",C,Jackson,5/12/2012 17:02,Debris Burning,1.5,1.5
+2012,71 - Southwest,Medford,236,5091 Hwy 238,T38S R03W S14 NENW,"42ï¿½ï¿½16'ï¿½12""","-123ï¿½ï¿½1'ï¿½27""",A,Jackson,9/21/2012 14:40,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,236,Rogue River Dr.,T34S R01W S32 SWSE,"42ï¿½ï¿½33'ï¿½59""","-122ï¿½ï¿½50'ï¿½29""",A,Jackson,5/13/2012 11:15,Juveniles,0.01,0.01
+2012,71 - Southwest,Medford,237,Eastside Rd,T39S R03W S27 SWNW,"42ï¿½ï¿½9'ï¿½6""","-123ï¿½ï¿½3'ï¿½7""",R,Jackson,5/13/2012 17:03,Equipment Use,0.25,0.25
+2012,71 - Southwest,Medford,238,Rancheria,T35S R03E S11 SENE,"42ï¿½ï¿½32'ï¿½29""","-122ï¿½ï¿½25'ï¿½14""",I,Jackson,9/23/2012 13:13,Smoking,32,32
+2012,71 - Southwest,Medford,239,Little Applegate Rd,T39S R02W S20 NWSW,"42ï¿½ï¿½9'ï¿½43""","-122ï¿½ï¿½58'ï¿½12""",R,Jackson,5/16/2012 17:34,Debris Burning,24,24
+2012,71 - Southwest,Grants Pass,239,Kilborn Dr 341,T35S R06W S25 NWSE,"42ï¿½ï¿½29'ï¿½51""","-123ï¿½ï¿½21'ï¿½25""",A,Josephine,9/4/2012 1:58,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Medford,240,Griffin Ln,T38S R02W S28 SENE,"42ï¿½ï¿½14'ï¿½12""","-122ï¿½ï¿½56'ï¿½17""",A,Jackson,5/19/2012 8:23,Debris Burning,0.25,0.25
+2012,71 - Southwest,Medford,241,Kershaw,T36S R01W S27 NWSE,"42ï¿½ï¿½24'ï¿½32""","-122ï¿½ï¿½48'ï¿½13""",A,Jackson,5/19/2012 14:45,Recreationist,0.1,0.1
+2012,71 - Southwest,Grants Pass,241,Monument Dr #3,T35S R06W S25 NWSW,"42ï¿½ï¿½29'ï¿½49""","-123ï¿½ï¿½22'ï¿½1""",A,Josephine,9/4/2012 22:40,Miscellaneous,0.25,0.25
+2012,71 - Southwest,Medford,242,Pompadour Dr.,T38S R01E S35 SESW,"42ï¿½ï¿½13'ï¿½6""","-122ï¿½ï¿½40'ï¿½12""",A,Jackson,5/20/2012 10:53,Debris Burning,2,2
+2012,71 - Southwest,Medford,243,PP 366201,T35S R01W S36 NWSE,"42ï¿½ï¿½28'ï¿½50""","-122ï¿½ï¿½45'ï¿½52""",A,Jackson,9/25/2012 8:59,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,243,Sterling Crk,T38S R02W S19 NESE,"42ï¿½ï¿½15'ï¿½2""","-122ï¿½ï¿½58'ï¿½36""",C,Jackson,5/20/2012 14:53,Debris Burning,0.1,0.1
+2012,71 - Southwest,Grants Pass,245,New Hope Road 7081,T37S R06W S24 NWNE,"42ï¿½ï¿½20'ï¿½47""","-123ï¿½ï¿½21'ï¿½27""",A,Josephine,9/5/2012 13:27,Equipment Use,0.1,0.1
+2012,71 - Southwest,Medford,246,5010 HWY 227,T33S R01W S17 SENE,"42ï¿½ï¿½42'ï¿½10""","-122ï¿½ï¿½50'ï¿½21""",A,Jackson,5/30/2012 16:05,Debris Burning,0.25,0.25
+2012,71 - Southwest,Grants Pass,246,Bill Creek,T39S R06W S13 SENE,"42ï¿½ï¿½10'ï¿½47""","-123ï¿½ï¿½21'ï¿½6""",K,Josephine,9/5/2012 14:04,Smoking,0.01,0.01
+2012,71 - Southwest,Medford,248,Emigrant Creek Rd.,T39S R02E S07 NESW,"42ï¿½ï¿½11'ï¿½21""","-122ï¿½ï¿½38'ï¿½3""",A,Jackson,6/2/2012 13:37,Recreationist,7.1,7.1
+2012,71 - Southwest,Medford,250,Bunny Meadows Rd,T38S R03W S14 SWNW,"42ï¿½ï¿½15'ï¿½57""","-123ï¿½ï¿½1'ï¿½50""",T,Jackson,6/6/2012 16:22,Juveniles,0.1,0.1
+2012,71 - Southwest,Medford,250,Fishers Ferry/PP137802,T36S R03W S13 NENE,"42ï¿½ï¿½26'ï¿½45""","-122ï¿½ï¿½59'ï¿½56""",R,Jackson,9/28/2012 12:06,Equipment Use,0.2,0.2
+2012,71 - Southwest,Medford,251,Glass Ln,T35S R01W S19 NESW,"42ï¿½ï¿½30'ï¿½39""","-122ï¿½ï¿½52'ï¿½16""",T,Jackson,6/8/2012 12:32,Debris Burning,1,1
+2012,71 - Southwest,Medford,252,11411 HWY 238,T38S R03W S30 NESW,"42ï¿½ï¿½14'ï¿½9""","-123ï¿½ï¿½6'ï¿½22""",C,Jackson,6/8/2012 16:30,Debris Burning,1,1
+2012,71 - Southwest,Grants Pass,252,Fish Hatchery 1242,T37S R06W S15 SENE,"42ï¿½ï¿½21'ï¿½22""","-123ï¿½ï¿½23'ï¿½17""",R,Josephine,9/6/2012 11:25,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,254,4358 AVE H,T36S R01W S15 NESW,"42ï¿½ï¿½26'ï¿½18""","-122ï¿½ï¿½48'ï¿½34""",A,Jackson,6/10/2012 14:53,Debris Burning,0.01,0.01
+2012,71 - Southwest,Medford,256,720 Riley Rd,T36S R01W S14 SWSE,"42ï¿½ï¿½26'ï¿½8""","-122ï¿½ï¿½46'ï¿½56""",A,Jackson,6/13/2012 14:05,Equipment Use,0.5,0.5
+2012,71 - Southwest,Medford,260,4482 Old Stage Rd,T37S R02W S05 SENW,"42ï¿½ï¿½23'ï¿½0""","-122ï¿½ï¿½57'ï¿½57""",A,Jackson,6/16/2012 16:09,Debris Burning,1.5,1.5
+2012,71 - Southwest,Medford,261,Three Link,T34S R03E S32 SWNW,"42ï¿½ï¿½34'ï¿½16""","-122ï¿½ï¿½29'ï¿½42""",K,Jackson,10/3/2012 13:52,Smoking,0.16,0.16
+2012,71 - Southwest,Medford,262,Emigrant Lake,T39S R02E S20 NESW,"42ï¿½ï¿½9'ï¿½38""","-122ï¿½ï¿½36'ï¿½56""",L,Jackson,6/20/2012 22:04,Recreationist,0.01,0.01
+2012,71 - Southwest,Medford,263,1991 Crowfoot Rd,T34S R01E S21 SWNE,"42ï¿½ï¿½36'ï¿½4""","-122ï¿½ï¿½42'ï¿½27""",A,Jackson,10/4/2012 0:15,Miscellaneous,0.25,0.25
+2012,71 - Southwest,Medford,264,8278 Hwy 238,T38S R03W S27 SENW,"42ï¿½ï¿½14'ï¿½20""","-123ï¿½ï¿½2'ï¿½54""",X,Jackson,6/23/2012 11:07,Equipment Use,0.01,0.01
+2012,71 - Southwest,Medford,267,Cabin Canyon,T33S R01W S31 NWNE,"42ï¿½ï¿½39'ï¿½47""","-122ï¿½ï¿½51'ï¿½49""",A,Jackson,10/4/2012 18:40,Smoking,0.25,0.25
+2012,71 - Southwest,Medford,267,Jackass Creek,T34S R03E S20 NENE,"42ï¿½ï¿½35'ï¿½33""","-122ï¿½ï¿½28'ï¿½44""",I,Jackson,6/25/2012 8:11,Recreationist,0.01,0.01
+2012,71 - Southwest,Medford,268,Kershaw #2,T36S R01W S27 SWNE,"42ï¿½ï¿½24'ï¿½42""","-122ï¿½ï¿½48'ï¿½14""",A,Jackson,6/25/2012 13:00,Recreationist,0.25,0.25
+2012,71 - Southwest,Medford,269,Upper Applegate,T39S R03W S03 SWSE,"42ï¿½ï¿½12'ï¿½0""","-123ï¿½ï¿½2'ï¿½30""",A,Jackson,6/26/2012 14:00,Equipment Use,0.25,0.25
+2012,71 - Southwest,Medford,273,Flood Rock,T34S R01W S10 NENW,"42ï¿½ï¿½38'ï¿½5""","-122ï¿½ï¿½48'ï¿½37""",C,Jackson,10/7/2012 13:48,Juveniles,5,5
+2012,71 - Southwest,Medford,274,Laurelhurst 2,T33S R02E S20 SWNE,"42ï¿½ï¿½41'ï¿½18""","-122ï¿½ï¿½36'ï¿½27""",I,Jackson,10/7/2012 14:30,Miscellaneous,0.25,0.25
+2012,71 - Southwest,Grants Pass,288,Forest Creek 689,T38S R07W S34 SENW,"42ï¿½ï¿½13'ï¿½15""","-123ï¿½ï¿½31'ï¿½2""",H,Josephine,9/14/2012 6:23,Smoking,0.1,0.1
+2012,71 - Southwest,Medford,290,1388 Upper Applegate rd,T38S R03W S33 SESE,"42ï¿½ï¿½13'ï¿½2""","-123ï¿½ï¿½3'ï¿½19""",A,Jackson,10/19/2012 11:27,Equipment Use,0.06,0.06
+2012,71 - Southwest,Medford,292,212 Crossway Dr.,T35S R02W S20 SESW,"42ï¿½ï¿½30'ï¿½20""","-122ï¿½ï¿½58'ï¿½7""",A,Jackson,10/21/2012 14:43,Debris Burning,0.25,0.25
+2012,71 - Southwest,Medford,294,Jenny Creek Rd,T39S R04E S35 NESW,"42ï¿½ï¿½8'ï¿½1""","-122ï¿½ï¿½19'ï¿½15""",A,Jackson,10/21/2012 16:31,Recreationist,0.01,0.01
+2012,71 - Southwest,Medford,295,Anderson Butte 2,T39S R01W S18 NWNW,"42ï¿½ï¿½10'ï¿½58""","-122ï¿½ï¿½52'ï¿½28""",K,Jackson,10/27/2012 18:20,Recreationist,0.01,0.01
+2012,71 - Southwest,Medford,297,263 Reiten,T39S R01E S24 NESE,"42ï¿½ï¿½9'ï¿½42""","-122ï¿½ï¿½38'ï¿½31""",L,Jackson,10/30/2012 12:10,Debris Burning,0.1,0.1
+2012,71 - Southwest,Medford,298,Cabin Canyon 2,T33S R02W S36 NENE,"42ï¿½ï¿½39'ï¿½50""","-122ï¿½ï¿½52'ï¿½43""",C,Jackson,11/1/2012 15:55,Recreationist,0.01,0.01
+2012,71 - Southwest,Grants Pass,303,Long Gulch,T37S R04W S15 NENW,"42ï¿½ï¿½21'ï¿½37""","-123ï¿½ï¿½9'ï¿½56""",H,Jackson,4/24/2012 6:46,Lightning,0.1,0.1
+2012,71 - Southwest,Grants Pass,304,Left Fork Fielder Creek,T36S R05W S12 NWNE,"42ï¿½ï¿½27'ï¿½42""","-123ï¿½ï¿½14'ï¿½19""",J,Josephine,5/7/2012 12:26,Recreationist,0.01,0.01
+2012,71 - Southwest,Grants Pass,305,Burma Pond,T33S R05W S15 SWNE,"42ï¿½ï¿½42'ï¿½15""","-123ï¿½ï¿½16'ï¿½27""",H,Josephine,5/26/2012 13:00,Recreationist,0.01,0.01
+2012,71 - Southwest,Grants Pass,306,Elk Mountain,T35S R05W S12 SWNE,"42ï¿½ï¿½32'ï¿½42""","-123ï¿½ï¿½14'ï¿½9""",I,Josephine,5/26/2012 13:40,Recreationist,0.1,0.1
+2012,71 - Southwest,Grants Pass,308,Fielder Creek,T36S R05W S12 NWNE,"42ï¿½ï¿½27'ï¿½42""","-123ï¿½ï¿½14'ï¿½18""",I,Jackson,5/28/2012 12:41,Recreationist,0.1,0.1
+2012,71 - Southwest,Grants Pass,309,E. Evans Creek 4575,T35S R04W S27 SWSW,"42ï¿½ï¿½29'ï¿½30""","-123ï¿½ï¿½10'ï¿½13""",H,Jackson,6/2/2012 16:25,Debris Burning,0.1,0.1
+2012,71 - Southwest,Grants Pass,310,Fawn Springs,T34S R04W S25 SENE,"42ï¿½ï¿½35'ï¿½12""","-123ï¿½ï¿½6'ï¿½50""",I,Jackson,6/4/2012 14:30,Lightning,0.1,0.1
+2012,71 - Southwest,Grants Pass,311,Savage Creek,T36S R05W S25 SWSE,"42ï¿½ï¿½24'ï¿½26""","-123ï¿½ï¿½14'ï¿½4""",H,Josephine,6/5/2012 7:30,Lightning,0.01,0.01
+2012,71 - Southwest,Grants Pass,311,Stringer Gap Road 114,T37S R06W S11 SENE,"42ï¿½ï¿½22'ï¿½10""","-123ï¿½ï¿½22'ï¿½15""",C,Josephine,9/14/2012 22:42,Miscellaneous,0.02,0.02
+2012,71 - Southwest,Grants Pass,312,Galice Road 600,T35S R06W S20 NWNE,"42ï¿½ï¿½31'ï¿½4""","-123ï¿½ï¿½26'ï¿½4""",L,Josephine,6/9/2012 13:47,Debris Burning,0.1,0.1
+2012,71 - Southwest,Grants Pass,317,Colonial Dr. 751,T35S R05W S19 SESE,"42ï¿½ï¿½30'ï¿½26""","-123ï¿½ï¿½19'ï¿½38""",A,Josephine,6/19/2012 16:45,Debris Burning,0.1,0.1
+2012,71 - Southwest,Grants Pass,326,Summit Loop 827,T36S R05W S33 SESE,"42ï¿½ï¿½23'ï¿½28""","-123ï¿½ï¿½17'ï¿½27""",A,Josephine,6/21/2012 21:26,Debris Burning,0.01,0.01
+2012,71 - Southwest,Grants Pass,337,Reeves Creek Rd. 4617,T38S R08W S34 NENW,"42ï¿½ï¿½13'ï¿½30""","-123ï¿½ï¿½38'ï¿½4""",L,Josephine,6/26/2012 15:01,Equipment Use,0.1,0.1
+2012,71 - Southwest,Grants Pass,342,Reeves Creek 2540,T38S R08W S26 NENE,"42ï¿½ï¿½14'ï¿½23""","-123ï¿½ï¿½36'ï¿½24""",H,Josephine,9/17/2012 7:27,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,343,Elk Lane,T37S R06W S02 SWNE,"42ï¿½ï¿½23'ï¿½9""","-123ï¿½ï¿½22'ï¿½29""",K,Josephine,9/16/2012 18:39,Recreationist,0.01,0.01
+2012,71 - Southwest,Grants Pass,345,Foothill Blvd,T36S R05W S15 NWSW,"42ï¿½ï¿½26'ï¿½17""","-123ï¿½ï¿½17'ï¿½0""",A,Josephine,9/17/2012 13:17,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,352,Haylee's Way 416,T35S R06W S02 SENW,"42ï¿½ï¿½33'ï¿½32""","-123ï¿½ï¿½22'ï¿½41""",A,Josephine,9/18/2012 16:17,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Grants Pass,357,Cheney Creek,T37S R07W S13 NESE,"42ï¿½ï¿½21'ï¿½2""","-123ï¿½ï¿½28'ï¿½4""",A,Josephine,9/20/2012 6:42,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Grants Pass,359,N Applegate 14755,T38S R04W S06 SESW,"42ï¿½ï¿½17'ï¿½21""","-123ï¿½ï¿½13'ï¿½14""",L,Jackson,9/20/2012 13:20,Smoking,3,3
+2012,71 - Southwest,Grants Pass,380,Grave Creek,T34S R08W S02 SWNE,"42ï¿½ï¿½38'ï¿½54""","-123ï¿½ï¿½36'ï¿½32""",H,Josephine,9/23/2012 18:10,Smoking,26,26
+2012,71 - Southwest,Grants Pass,404,Hayes Hill,T37S R08W S25 NESW,"42ï¿½ï¿½19'ï¿½17""","-123ï¿½ï¿½35'ï¿½41""",H,Josephine,10/2/2012 12:20,Smoking,0.01,0.01
+2012,71 - Southwest,Grants Pass,411,Galice Rd 917,T35S R06W S20 NWNW,"42ï¿½ï¿½31'ï¿½4""","-123ï¿½ï¿½26'ï¿½29""",A,Josephine,10/4/2012 2:04,Miscellaneous,0.01,0.01
+2012,71 - Southwest,Grants Pass,412,Redwood Hwy MP 8 SB,T37S R07W S01 SENE,"42ï¿½ï¿½23'ï¿½8""","-123ï¿½ï¿½27'ï¿½56""",L,Josephine,10/4/2012 13:52,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,414,Sykes Creek 1977,T34S R04W S35 SWNE,"42ï¿½ï¿½34'ï¿½22""","-123ï¿½ï¿½8'ï¿½21""",H,Jackson,10/4/2012 14:36,Equipment Use,0.01,0.01
+2012,71 - Southwest,Grants Pass,436,Monument Dr 5765,T35S R06W S26 NWNE,"42ï¿½ï¿½30'ï¿½14""","-123ï¿½ï¿½22'ï¿½19""",A,Josephine,10/9/2012 16:20,Juveniles,0.25,0.25
+2012,71 - Southwest,Grants Pass,437,Leland Rd 3200,T34S R06W S05 NESW,"42ï¿½ï¿½38'ï¿½31""","-123ï¿½ï¿½26'ï¿½22""",C,Josephine,10/9/2012 17:20,Juveniles,0.01,0.01
+2012,71 - Southwest,Grants Pass,440,Mooney Mountain,T37S R07W S21 SESW,"42ï¿½ï¿½19'ï¿½56""","-123ï¿½ï¿½32'ï¿½18""",H,Josephine,10/10/2012 13:58,Recreationist,0.1,0.1
+2012,71 - Southwest,Grants Pass,442,Elliott Creek,T37S R07W S15 SENW,"42ï¿½ï¿½21'ï¿½11""","-123ï¿½ï¿½30'ï¿½50""",H,Josephine,10/11/2012 17:45,Recreationist,0.1,0.1
+2012,71 - Southwest,Grants Pass,443,Redwood Hwy 28195,T39S R08W S33 NWNW,"42ï¿½ï¿½8'ï¿½13""","-123ï¿½ï¿½39'ï¿½40""",U,Josephine,10/11/2012 21:58,Smoking,0.1,0.1
+2012,71 - Southwest,Grants Pass,445,Donaldson Rd 6010,T35S R05W S30 SESW,"42ï¿½ï¿½29'ï¿½41""","-123ï¿½ï¿½20'ï¿½20""",L,Josephine,10/12/2012 15:57,Debris Burning,0.01,0.01
+2012,71 - Southwest,Grants Pass,459,Findley Road,T38S R05W S36 SENW,"42ï¿½ï¿½13'ï¿½22""","-123ï¿½ï¿½14'ï¿½37""",J,Josephine,10/21/2012 13:43,Recreationist,0.1,0.1
+2012,72 - Coos,Coos FPA,1,Half Moon Beach,T22S R13W S12 NESW,"43ï¿½ï¿½40'ï¿½6""","-124ï¿½ï¿½11'ï¿½53""",X,Douglas,7/1/2012 17:05,Recreationist,0.01,0.01
+2012,72 - Coos,Coos FPA,3,Park Creek,T27S R10W S04 NWSW,"43ï¿½ï¿½14'ï¿½45""","-123ï¿½ï¿½53'ï¿½45""",R,Coos,7/4/2012 22:15,Miscellaneous,0,0
+2012,72 - Coos,Coos FPA,11,Olive Barber,T26S R13W S01 NWNW,"43ï¿½ï¿½21'ï¿½1""","-124ï¿½ï¿½11'ï¿½31""",H,Coos,7/11/2012 12:07,Miscellaneous,0.02,0.02
+2012,72 - Coos,Gold Beach,25,Shasta Costa,T35S R11W S06 NWNE,"42ï¿½ï¿½33'ï¿½44""","-124ï¿½ï¿½3'ï¿½22""",C,Curry,7/18/2012 16:56,Lightning,0.25,0.25
+2012,72 - Coos,Coos FPA,29,Bullards Beach,T28S R14W S06 NENE,"43ï¿½ï¿½10'ï¿½53""","-124ï¿½ï¿½23'ï¿½55""",B,Coos,7/20/2012 9:24,Lightning,0.01,0.01
+2012,72 - Coos,Coos FPA,31,Lutsinger Creek,T22S R09W S28 NWSE,"43ï¿½ï¿½37'ï¿½36""","-123ï¿½ï¿½46'ï¿½25""",B,Douglas,7/20/2012 15:24,Lightning,0.03,0.03
+2012,72 - Coos,Coos FPA,32,Camp Creek,T23S R09W S13 SENW,"43ï¿½ï¿½34'ï¿½15""","-123ï¿½ï¿½42'ï¿½29""",G,Douglas,7/20/2012 16:06,Lightning,0.04,0.04
+2012,72 - Coos,Gold Beach,34,Arch Rock,T38S R14W S32 SWSW,"42ï¿½ï¿½14'ï¿½19""","-124ï¿½ï¿½23'ï¿½41""",C,Curry,7/22/2012 20:15,Lightning,0.5,0.5
+2012,72 - Coos,Coos FPA,38,Sunset Bay,T26S R14W S04 NWSE,"43ï¿½ï¿½20'ï¿½18""","-124ï¿½ï¿½22'ï¿½3""",A,Coos,7/25/2012 1:32,Equipment Use,0.01,0.01
+2012,72 - Coos,Bridge,45,Camas Creek,T28S R09W S16 NESE,"43ï¿½ï¿½7'ï¿½59""","-123ï¿½ï¿½45'ï¿½53""",J,Coos,7/29/2012 15:00,Equipment Use,37.8,37.8
+2012,72 - Coos,Gold Beach,47,Kyrsten Road,T36S R14W S11 SENW,"42ï¿½ï¿½28'ï¿½29""","-124ï¿½ï¿½20'ï¿½3""",A,Curry,7/31/2012 12:45,Equipment Use,0.5,0.5
+2012,72 - Coos,Gold Beach,52,Grizzly Mountain Rd,T36S R14W S31 SWSE,"42ï¿½ï¿½24'ï¿½49""","-124ï¿½ï¿½24'ï¿½8""",F,Curry,8/1/2012 6:47,Equipment Use,0.25,0.25
+2012,72 - Coos,Gold Beach,59,Old Coast Hwy,T36S R15W S24 SENW,"42ï¿½ï¿½26'ï¿½56""","-124ï¿½ï¿½25'ï¿½31""",F,Curry,8/7/2012 16:23,Juveniles,0.25,0.25
+2012,72 - Coos,Coos FPA,69,Bastendorf,T26S R14W S03 NWNE,"43ï¿½ï¿½20'ï¿½56""","-124ï¿½ï¿½20'ï¿½36""",C,Coos,8/16/2012 12:30,Recreationist,0.01,0.01
+2012,72 - Coos,Coos FPA,74,Davis Slough,T26S R13W S14 NWSE,"43ï¿½ï¿½18'ï¿½59""","-124ï¿½ï¿½12'ï¿½24""",A,Coos,8/17/2012 9:26,Equipment Use,0.01,0.01
+2012,72 - Coos,Gold Beach,86,Sporthaven #2,T41S R13W S08 NWNE,"42ï¿½ï¿½2'ï¿½38""","-124ï¿½ï¿½16'ï¿½5""",X,Curry,8/26/2012 12:32,Recreationist,0.01,0.01
+2012,72 - Coos,Gold Beach,102,McKenzie Road,T32S R15W S17 NESE,"42ï¿½ï¿½48'ï¿½8""","-124ï¿½ï¿½29'ï¿½45""",L,Curry,8/31/2012 13:40,Equipment Use,0.5,0.5
+2012,72 - Coos,Gold Beach,106,Sydnam Lane,T30S R15W S13 SESW,"42ï¿½ï¿½58'ï¿½10""","-124ï¿½ï¿½25'ï¿½42""",C,Coos,9/1/2012 8:53,Miscellaneous,0.01,0.01
+2012,72 - Coos,Coos FPA,118,Nesika Park,T24S R11W S34 SENW,"43ï¿½ï¿½26'ï¿½50""","-123ï¿½ï¿½59'ï¿½42""",H,Coos,9/4/2012 19:02,Smoking,1.2,1.2
+2012,72 - Coos,Bridge,130,Broadbent,T29S R12W S32 SWSE,"43ï¿½ï¿½0'ï¿½30""","-124ï¿½ï¿½8'ï¿½48""",A,Coos,9/13/2012 3:40,Equipment Use,0.01,0.01
+2012,72 - Coos,Coos FPA,131,Lighthouse Rd,T22S R13W S13 SENW,"43ï¿½ï¿½39'ï¿½45""","-124ï¿½ï¿½11'ï¿½47""",J,Douglas,9/13/2012 16:07,Miscellaneous,0.01,0.01
+2012,72 - Coos,Coos FPA,133,Jimmy Creek,T22S R09W S18 SWSW,"43ï¿½ï¿½39'ï¿½10""","-123ï¿½ï¿½49'ï¿½29""",H,Douglas,9/18/2012 1:30,Smoking,11.71,11.71
+2012,72 - Coos,Gold Beach,136,Carpenterville Road,T39S R14W S25 SWSW,"42ï¿½ï¿½9'ï¿½53""","-124ï¿½ï¿½18'ï¿½44""",L,Curry,9/18/2012 13:39,Recreationist,6.69,6.69
+2012,72 - Coos,Coos FPA,140,Hwy 42S Milepost 14,T28S R13W S03 NWNW,"43ï¿½ï¿½10'ï¿½44""","-124ï¿½ï¿½14'ï¿½10""",X,Coos,9/21/2012 19:20,Smoking,0.02,0.02
+2012,72 - Coos,Coos FPA,147,Merritt Lake Fire,T25S R13W S29 SENE,"43ï¿½ï¿½22'ï¿½26""","-124ï¿½ï¿½15'ï¿½32""",I,Coos,9/25/2012 11:00,Smoking,0.2,0.2
+2012,72 - Coos,Coos FPA,150,Pony Creek,T25S R13W S28 SENW,"43ï¿½ï¿½22'ï¿½27""","-124ï¿½ï¿½15'ï¿½2""",H,Coos,9/25/2012 12:00,Smoking,0.66,0.66
+2012,72 - Coos,Bridge,160,Grant Creek #2,T31S R12W S25 SENE,"42ï¿½ï¿½51'ï¿½18""","-124ï¿½ï¿½3'ï¿½45""",X,Coos,9/29/2012 20:15,Recreationist,0.01,0.01
+2012,72 - Coos,Coos FPA,161,Larson Lane,T24S R12W S16 SESE,"43ï¿½ï¿½29'ï¿½3""","-124ï¿½ï¿½7'ï¿½33""",A,Coos,9/30/2012 16:59,Smoking,0.01,0.01
+2012,72 - Coos,Bridge,163,Rosehip Lane,T29S R09W S24 NESW,"43ï¿½ï¿½1'ï¿½5""","-123ï¿½ï¿½42'ï¿½20""",L,Douglas,10/2/2012 14:15,Miscellaneous,0.25,0.25
+2012,72 - Coos,Coos FPA,164,Smith Pond,T26S R13W S01 NENW,"43ï¿½ï¿½20'ï¿½54""","-124ï¿½ï¿½11'ï¿½33""",L,Coos,10/2/2012 15:10,Smoking,0.01,0.01
+2012,72 - Coos,Gold Beach,169,Skyview Road,T28S R14W S28 SWSW,"43ï¿½ï¿½6'ï¿½53""","-124ï¿½ï¿½21'ï¿½22""",F,Coos,10/7/2012 21:03,Miscellaneous,0.01,0.01
+2012,72 - Coos,Coos FPA,172,South Ridge Road,T27S R14W S27 NESE,"43ï¿½ï¿½12'ï¿½4""","-124ï¿½ï¿½20'ï¿½20""",F,Coos,10/14/2012 15:12,Smoking,0.01,0.01
+2012,72 - Coos,Bridge,175,Woodby Mt.,T31S R11W S30 NESE,"42ï¿½ï¿½50'ï¿½59""","-124ï¿½ï¿½2'ï¿½32""",A,Coos,10/17/2012 14:39,Debris Burning,0.1,0.1
+2012,72 - Coos,Coos FPA,176,Ross Inlet,T26S R13W S12 NESE,"43ï¿½ï¿½19'ï¿½37""","-124ï¿½ï¿½11'ï¿½2""",A,Coos,10/18/2012 13:16,Debris Burning,0.11,0.11
+2012,72 - Coos,Bridge,180,Bone Mtn,T30S R10W S35 SESW,"42ï¿½ï¿½54'ï¿½38""","-123ï¿½ï¿½51'ï¿½6""",J,Coos,2/10/2012 4:00,Equipment Use,14.4,14.4
+2012,72 - Coos,Gold Beach,181,Henderson Road,T40S R14W S30 NENW,"42ï¿½ï¿½5'ï¿½19""","-124ï¿½ï¿½17'ï¿½40""",L,Curry,5/11/2012 14:27,Recreationist,0.01,0.01
+2012,72 - Coos,Bridge,197,Sandy Creek,T29S R10W S23 SWSW,"43ï¿½ï¿½1'ï¿½31""","-123ï¿½ï¿½51'ï¿½25""",F,Coos,5/16/2012 10:32,Debris Burning,0.03,0.03
+2012,73 - Douglas,Central,2,Kent Cr.,T29S R06W S07 NWNE,"43ï¿½ï¿½4'ï¿½4""","-123ï¿½ï¿½27'ï¿½2""",A,Douglas,7/2/2012 16:30,Miscellaneous,0.01,0.01
+2012,73 - Douglas,North,11,Cole Road,T25S R06W S17 SWSW,"43ï¿½ï¿½23'ï¿½29""","-123ï¿½ï¿½26'ï¿½27""",A,Douglas,7/11/2012 18:35,Equipment Use,0.01,0.01
+2012,73 - Douglas,North,13,Homestead,T24S R06W S11 NENE,"43ï¿½ï¿½30'ï¿½7""","-123ï¿½ï¿½21'ï¿½15""",A,Douglas,7/13/2012 15:36,Smoking,0.01,0.01
+2012,73 - Douglas,South,14,Long Fibre,T32S R04W S04 NWSW,"42ï¿½ï¿½49'ï¿½5""","-123ï¿½ï¿½11'ï¿½12""",X,Douglas,7/14/2012 14:52,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,18,Mikes Point,T29S R07W S14 SENW,"43ï¿½ï¿½3'ï¿½5""","-123ï¿½ï¿½29'ï¿½56""",X,Douglas,7/15/2012 20:59,Recreationist,0.01,0.01
+2012,73 - Douglas,South,24,Red Hill,T33S R06W S03 NESE,"42ï¿½ï¿½43'ï¿½55""","-123ï¿½ï¿½23'ï¿½23""",G,Douglas,7/17/2012 18:55,Lightning,0.25,0.25
+2012,73 - Douglas,Central,28,Kent Creek 2,T29S R07W S23 SESE,"43ï¿½ï¿½1'ï¿½51""","-123ï¿½ï¿½29'ï¿½26""",G,Douglas,7/20/2012 14:31,Lightning,0.1,0.1
+2012,73 - Douglas,North,32,Rader Creek,T24S R08W S09 NWSE,"43ï¿½ï¿½29'ï¿½55""","-123ï¿½ï¿½39'ï¿½12""",A,Douglas,7/20/2012 18:53,Lightning,0.01,0.01
+2012,73 - Douglas,North,40,I-5 MP 146,T24S R05W S05 SWNE,"43ï¿½ï¿½30'ï¿½55""","-123ï¿½ï¿½18'ï¿½51""",A,Douglas,7/26/2012 16:25,Equipment Use,0.1,0.1
+2012,73 - Douglas,South,52,North Myrtle Rd.,T28S R04W S23 SESW,"43ï¿½ï¿½6'ï¿½52""","-123ï¿½ï¿½8'ï¿½35""",F,Douglas,8/7/2012 10:05,Juveniles,0.1,0.1
+2012,73 - Douglas,Central,53,MP 117,T28S R06W S24 SWNW,"43ï¿½ï¿½7'ï¿½21""","-123ï¿½ï¿½21'ï¿½43""",F,Douglas,8/9/2012 15:45,Equipment Use,0.01,0.01
+2012,73 - Douglas,South,58,Buck Fork,T28S R03W S17 NWNE,"43ï¿½ï¿½8'ï¿½15""","-123ï¿½ï¿½4'ï¿½38""",H,Douglas,8/13/2012 7:52,Equipment Use,0.1,0.1
+2012,73 - Douglas,South,67,I-5 MP 86,T32S R05W S22 NENE,"42ï¿½ï¿½46'ï¿½55""","-123ï¿½ï¿½16'ï¿½15""",A,Douglas,8/15/2012 14:32,Equipment Use,0.9,0.9
+2012,73 - Douglas,North,70,Yoncalla Cemetary,T23S R05W S04 SESE,"43ï¿½ï¿½35'ï¿½38""","-123ï¿½ï¿½17'ï¿½19""",A,Douglas,8/17/2012 12:50,Miscellaneous,2,2
+2012,73 - Douglas,North,71,South Front St.,T25S R05W S09 NENE,"43ï¿½ï¿½24'ï¿½56""","-123ï¿½ï¿½17'ï¿½21""",I,Douglas,8/17/2012 14:09,Equipment Use,0.1,0.1
+2012,73 - Douglas,Central,73,Becker Rd.,T26S R07W S34 SWSW,"43ï¿½ï¿½15'ï¿½38""","-123ï¿½ï¿½31'ï¿½21""",R,Douglas,8/18/2012 16:57,Miscellaneous,0.1,0.1
+2012,73 - Douglas,South,81,Louis Creek Road,T29S R04W S23 SENW,"43ï¿½ï¿½2'ï¿½10""","-123ï¿½ï¿½8'ï¿½41""",A,Douglas,8/23/2012 17:15,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,85,Benedict Rd.,T29S R07W S06 SWSW,"43ï¿½ï¿½4'ï¿½19""","-123ï¿½ï¿½34'ï¿½45""",A,Douglas,8/26/2012 19:07,Juveniles,0.25,0.25
+2012,73 - Douglas,South,86,Ben Branch,T29S R04W S22 SWNE,"43ï¿½ï¿½2'ï¿½9""","-123ï¿½ï¿½9'ï¿½34""",A,Douglas,8/27/2012 5:30,Equipment Use,0.01,0.01
+2012,73 - Douglas,North,87,Jeffers Cr.,T24S R03W S31 SESW,"43ï¿½ï¿½26'ï¿½3""","-123ï¿½ï¿½6'ï¿½2""",H,Douglas,8/27/2012 11:05,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,89,Swiftwater Access,T26S R03W S12 SWSE,"43ï¿½ï¿½18'ï¿½58""","-122ï¿½ï¿½59'ï¿½57""",H,Douglas,8/28/2012 10:45,Smoking,0.5,0.5
+2012,73 - Douglas,Central,102,Dairy Loop Road,T28S R07W S02 SWNW,"43ï¿½ï¿½9'ï¿½56""","-123ï¿½ï¿½30'ï¿½1""",A,Douglas,9/2/2012 15:33,Equipment Use,0.1,0.1
+2012,73 - Douglas,North,104,Bunches Bar,T22S R08W S21 SENW,"43ï¿½ï¿½38'ï¿½33""","-123ï¿½ï¿½39'ï¿½37""",H,Douglas,9/3/2012 15:30,Miscellaneous,1.5,1.5
+2012,73 - Douglas,Central,109,Topaz Drive,T27S R06W S28 SENW,"43ï¿½ï¿½11'ï¿½36""","-123ï¿½ï¿½25'ï¿½16""",A,Douglas,9/6/2012 14:15,Equipment Use,0.1,0.1
+2012,73 - Douglas,North,114,Cedar Cr.,T22S R08W S05 SWNW,"43ï¿½ï¿½41'ï¿½23""","-123ï¿½ï¿½40'ï¿½52""",K,Douglas,9/7/2012 16:27,Equipment Use,0.01,0.01
+2012,73 - Douglas,South,120,Pruner Rd.,T30S R06W S12 SWSE,"42ï¿½ï¿½58'ï¿½17""","-123ï¿½ï¿½21'ï¿½4""",A,Douglas,9/12/2012 12:40,Equipment Use,0.1,0.1
+2012,73 - Douglas,Central,125,Flournoy Valley Rd.,T27S R07W S15 NWNW,"43ï¿½ï¿½13'ï¿½44""","-123ï¿½ï¿½31'ï¿½29""",H,Douglas,9/13/2012 8:23,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,128,Anabel Ln.,T25S R03W S36 SWSE,"43ï¿½ï¿½20'ï¿½50""","-122ï¿½ï¿½59'ï¿½41""",H,Douglas,9/16/2012 9:36,Recreationist,0.1,0.1
+2012,73 - Douglas,North,129,Cofey Crossing,T22S R05W S27 NWSW,"43ï¿½ï¿½37'ï¿½27""","-123ï¿½ï¿½17'ï¿½17""",A,Douglas,9/16/2012 19:11,Equipment Use,0.1,0.1
+2012,73 - Douglas,Central,132,Strickland Canyon,T28S R07W S11 SWSW,"43ï¿½ï¿½8'ï¿½33""","-123ï¿½ï¿½30'ï¿½2""",F,Douglas,9/17/2012 18:58,Equipment Use,0.01,0.01
+2012,73 - Douglas,South,135,I-5 MP 91,T31S R05W S35 SWNE,"42ï¿½ï¿½50'ï¿½1""","-123ï¿½ï¿½15'ï¿½21""",H,Douglas,9/23/2012 5:50,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,135,Corner Boyd,T29S R02W S24 SENE,"43ï¿½ï¿½2'ï¿½8""","-123ï¿½ï¿½27'ï¿½57""",J,Douglas,1/4/2012 16:56,Equipment Use,0.01,0.01
+2012,73 - Douglas,South,136,Meadow Creek,T31S R03W S20 NWSE,"42ï¿½ï¿½51'ï¿½43""","-123ï¿½ï¿½4'ï¿½44""",I,Douglas,2/8/2012 0:30,Equipment Use,11.76,11.76
+2012,73 - Douglas,South,137,Middle Council,T31S R06W S17 NESE,"42ï¿½ï¿½52'ï¿½29""","-123ï¿½ï¿½25'ï¿½46""",J,Douglas,3/4/2012 12:00,Recreationist,0.01,0.01
+2012,73 - Douglas,Central,138,Coos Bay Wagon Road,T27S R07W S32 NWNE,"43ï¿½ï¿½10'ï¿½55""","-123ï¿½ï¿½33'ï¿½16""",A,Douglas,9/26/2012 10:58,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,138,Doerner Cutoff,T27S R07W S15 NWNW,"43ï¿½ï¿½13'ï¿½43""","-123ï¿½ï¿½31'ï¿½21""",R,Douglas,3/9/2012 14:45,Equipment Use,0.25,0.25
+2012,73 - Douglas,South,139,Perkins Point,T30S R02W S30 SWSE,"42ï¿½ï¿½56'ï¿½1""","-122ï¿½ï¿½59'ï¿½21""",F,Douglas,3/9/2012 18:00,Equipment Use,4,4
+2012,73 - Douglas,South,140,Judd Creek,T30S R06W S02 NWNW,"42ï¿½ï¿½59'ï¿½49""","-123ï¿½ï¿½22'ï¿½57""",H,Douglas,9/30/2012 6:35,Recreationist,0.01,0.01
+2012,73 - Douglas,Central,140,Bear Ridge,T26S R07W S28 NWNE,"43ï¿½ï¿½17'ï¿½7""","-123ï¿½ï¿½32'ï¿½1""",J,Douglas,4/28/2012 18:42,Debris Burning,0.01,0.01
+2012,73 - Douglas,North,141,Little Paradise South,T21S R08W S36 SESE,"43ï¿½ï¿½41'ï¿½36""","-123ï¿½ï¿½35'ï¿½12""",H,Douglas,5/12/2012 13:00,Debris Burning,0.25,0.25
+2012,73 - Douglas,South,142,Doe Creek,T30S R07W S35 NENE,"42ï¿½ï¿½55'ï¿½34""","-123ï¿½ï¿½29'ï¿½25""",I,Douglas,5/16/2012 21:00,Miscellaneous,0.25,0.25
+2012,73 - Douglas,South,143,Little Doe Creek,T30S R07W S23 NESW,"42ï¿½ï¿½56'ï¿½41""","-123ï¿½ï¿½29'ï¿½59""",H,Douglas,5/18/2012 10:30,Recreationist,1,1
+2012,73 - Douglas,Central,144,North Bank,T26S R04W S16 NWNE,"43ï¿½ï¿½18'ï¿½55""","-123ï¿½ï¿½10'ï¿½37""",L,Douglas,5/19/2012 13:49,Miscellaneous,1.2,1.2
+2012,73 - Douglas,South,147,By Pass Road,T30S R06W S33 NWSE,"42ï¿½ï¿½55'ï¿½41""","-123ï¿½ï¿½24'ï¿½51""",A,Douglas,10/3/2012 16:29,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,149,Kent Cr. Rd.,T29S R07W S14 SENE,"43ï¿½ï¿½3'ï¿½4""","-123ï¿½ï¿½29'ï¿½10""",A,Douglas,6/2/2012 17:30,Recreationist,0.01,0.01
+2012,73 - Douglas,South,150,Russell - Catcher,T31S R06W S10 NWNE,"42ï¿½ï¿½53'ï¿½43""","-123ï¿½ï¿½23'ï¿½42""",G,Douglas,6/4/2012 17:00,Lightning,0.01,0.01
+2012,73 - Douglas,South,151,Azalea-Glen,T32S R05W S22 NWNW,"42ï¿½ï¿½46'ï¿½57""","-123ï¿½ï¿½17'ï¿½8""",F,Douglas,6/14/2012 19:25,Debris Burning,0.1,0.1
+2012,73 - Douglas,Central,151,Susan Creek,T26S R02W S22 SWNE,"43ï¿½ï¿½17'ï¿½37""","-122ï¿½ï¿½55'ï¿½3""",G,Douglas,10/7/2012 20:25,Arson,1.85,1.85
+2012,73 - Douglas,South,152,Windy Ridge,T30S R05W S27 NENW,"42ï¿½ï¿½54'ï¿½13""","-123ï¿½ï¿½27'ï¿½56""",L,Douglas,6/16/2012 12:27,Equipment Use,0.01,0.01
+2012,73 - Douglas,South,153,Mile Post 94,T31S R05W S12 SENW,"42ï¿½ï¿½53'ï¿½33""","-123ï¿½ï¿½14'ï¿½36""",A,Douglas,6/16/2012 13:17,Miscellaneous,0.01,0.01
+2012,73 - Douglas,South,155,A-1,T31S R07W S20 NENE,"42ï¿½ï¿½52'ï¿½3""","-123ï¿½ï¿½32'ï¿½46""",H,Douglas,6/19/2012 8:00,Arson,0.01,0.01
+2012,73 - Douglas,South,156,A-2,T31S R07W S21 NWNE,"42ï¿½ï¿½52'ï¿½2""","-123ï¿½ï¿½32'ï¿½7""",H,Douglas,6/19/2012 6:30,Arson,0.01,0.01
+2012,73 - Douglas,South,157,A-3,T31S R07W S22 SWSE,"42ï¿½ï¿½51'ï¿½22""","-123ï¿½ï¿½30'ï¿½52""",I,Douglas,6/19/2012 6:00,Arson,0.1,0.1
+2012,73 - Douglas,South,158,A-4,T31S R06W S17 NWSE,"42ï¿½ï¿½50'ï¿½22""","-123ï¿½ï¿½25'ï¿½59""",I,Douglas,6/19/2012 7:00,Arson,0.1,0.1
+2012,73 - Douglas,South,159,A-5,T33S R06W S18 NENW,"42ï¿½ï¿½42'ï¿½10""","-123ï¿½ï¿½27'ï¿½53""",I,Douglas,6/19/2012 6:30,Arson,0.01,0.01
+2012,73 - Douglas,South,160,A-6,T31S R06W S17 NWSE,"42ï¿½ï¿½52'ï¿½24""","-123ï¿½ï¿½26'ï¿½8""",J,Douglas,6/19/2012 7:00,Arson,0.1,0.1
+2012,73 - Douglas,South,161,A-7,T31S R07W S17 NESE,"42ï¿½ï¿½52'ï¿½34""","-123ï¿½ï¿½32'ï¿½46""",I,Douglas,6/19/2012 7:00,Arson,0.01,0.01
+2012,73 - Douglas,South,162,A-8,T31S R06W S19 NWNW,"42ï¿½ï¿½52'ï¿½10""","-123ï¿½ï¿½27'ï¿½52""",I,Douglas,6/19/2012 7:00,Arson,0.01,0.01
+2012,73 - Douglas,South,163,A-9,T31S R06W S08 SENE,"42ï¿½ï¿½53'ï¿½39""","-123ï¿½ï¿½25'ï¿½45""",J,Douglas,6/19/2012 7:00,Arson,0.1,0.1
+2012,73 - Douglas,South,164,B-1,T31S R07W S16 SENW,"42ï¿½ï¿½52'ï¿½36""","-123ï¿½ï¿½32'ï¿½26""",J,Douglas,6/19/2012 6:30,Arson,0.1,0.1
+2012,73 - Douglas,South,165,B-2,T31S R07W S16 NESW,"42ï¿½ï¿½52'ï¿½34""","-123ï¿½ï¿½32'ï¿½11""",I,Douglas,6/19/2012 6:30,Arson,0.1,0.1
+2012,73 - Douglas,South,166,B-3,T31S R07W S15 NESE,"42ï¿½ï¿½52'ï¿½34""","-123ï¿½ï¿½30'ï¿½26""",J,Douglas,6/19/2012 7:00,Arson,0.1,0.1
+2012,73 - Douglas,South,167,B-4,T31S R07W S16 NESW,"42ï¿½ï¿½52'ï¿½33""","-123ï¿½ï¿½32'ï¿½11""",I,Douglas,6/19/2012 5:35,Arson,0.1,0.1
+2012,73 - Douglas,South,168,B-5,T31S R07W S16 NESW,"42ï¿½ï¿½52'ï¿½34""","-123ï¿½ï¿½32'ï¿½16""",I,Douglas,6/19/2012 6:15,Arson,0.1,0.1
+2012,73 - Douglas,South,169,C-1,T30S R06W S31 SWSW,"42ï¿½ï¿½54'ï¿½55""","-123ï¿½ï¿½27'ï¿½53""",I,Douglas,6/19/2012 7:00,Arson,0.01,0.01
+2012,73 - Douglas,South,170,C-2,T30S R06W S31 SESW,"42ï¿½ï¿½54'ï¿½53""","-123ï¿½ï¿½27'ï¿½41""",I,Douglas,6/19/2012 7:00,Arson,0.01,0.01
+2012,73 - Douglas,South,171,MP 2 Cow Cr.,T30S R06W S31 SWSW,"42ï¿½ï¿½54'ï¿½51""","-123ï¿½ï¿½27'ï¿½51""",X,Douglas,6/23/2012 8:42,Equipment Use,0.01,0.01
+2012,73 - Douglas,Central,172,Clearview Rd.,T26S R06W S14 NESE,"43ï¿½ï¿½18'ï¿½26""","-123ï¿½ï¿½22'ï¿½2""",L,Douglas,6/27/2012 16:55,Debris Burning,0.25,0.25
+2012,77 - East Lane,Sweet Home,7,2nd Bridge Fire,T13S R02E S19 SWNW,"44ï¿½ï¿½25'ï¿½33""","-122ï¿½ï¿½37'ï¿½8""",H,Linn,8/2/2012 18:38,Recreationist,0.01,0.01
+2012,77 - East Lane,East Lane,10,North Bank Escape Fire,T16S R06E S17 NENW,"44ï¿½ï¿½10'ï¿½59""","-122ï¿½ï¿½6'ï¿½49""",G,Lane,8/1/2012 14:15,Recreationist,0,0.1
+2012,77 - East Lane,East Lane,15,Stu Flats Fire,T16S R05E S30 NWNE,"44ï¿½ï¿½9'ï¿½14""","-122ï¿½ï¿½15'ï¿½7""",L,Lane,8/11/2012 14:00,Recreationist,0,3
+2012,77 - East Lane,East Lane,19,Wendling Road Fire,T16S R01W S16 NWNW,"44ï¿½ï¿½11'ï¿½5""","-122ï¿½ï¿½49'ï¿½17""",L,Lane,8/19/2012 14:10,Miscellaneous,0.01,0.01
+2012,77 - East Lane,East Lane,21,Twin Firs Fire,T17S R01W S24 NWNW,"44ï¿½ï¿½5'ï¿½7""","-122ï¿½ï¿½45'ï¿½34""",H,Lane,8/24/2012 11:00,Equipment Use,0.01,0.01
+2012,77 - East Lane,East Lane,22,Blackberry Camp Fire,T17S R02W S20 SWSW,"44ï¿½ï¿½4'ï¿½20""","-122ï¿½ï¿½57'ï¿½49""",X,Lane,8/26/2012 15:17,Recreationist,0,0.01
+2012,77 - East Lane,Sweet Home,23,GREEN MTN 100,T14S R01E S11 NWNE,"44ï¿½ï¿½22'ï¿½17""","-122ï¿½ï¿½39'ï¿½10""",X,Linn,8/28/2012 15:20,Equipment Use,0,0
+2012,77 - East Lane,East Lane,24,Hills Creek Road,T18S R01W S22 NWNW,"43ï¿½ï¿½59'ï¿½43""","-122ï¿½ï¿½48'ï¿½14""",L,Lane,8/28/2012 18:50,Equipment Use,0.01,0.01
+2012,77 - East Lane,East Lane,25,McKenzie Bridge Fire,T16S R05E S14 NWSE,"44ï¿½ï¿½10'ï¿½32""","-122ï¿½ï¿½10'ï¿½11""",H,Lane,8/30/2012 9:00,Recreationist,0.01,0.01
+2012,77 - East Lane,East Lane,26,Minnow Creek Fire,T19S R01E S30 SENE,"43ï¿½ï¿½53'ï¿½26""","-122ï¿½ï¿½43'ï¿½50""",F,Lane,8/30/2012 23:58,Railroad,0.25,0.25
+2012,77 - East Lane,Sweet Home,26,SODA FORK 627,T12S R05E S34 SESW,"44ï¿½ï¿½28'ï¿½33""","-122ï¿½ï¿½12'ï¿½7""",H,Linn,9/1/2012 10:15,Recreationist,0.01,0.01
+2012,77 - East Lane,East Lane,27,Coburg Field Fire,T16S R03W S34 NESW,"44ï¿½ï¿½7'ï¿½54""","-123ï¿½ï¿½2'ï¿½33""",F,Lane,9/1/2012 14:30,Equipment Use,0,3
+2012,77 - East Lane,East Lane,32,Delta Road Fire #2,T16S R05E S21 NENE,"44ï¿½ï¿½3'ï¿½29""","-122ï¿½ï¿½59'ï¿½3""",R,Lane,9/4/2012 16:54,Equipment Use,0.01,0.01
+2012,77 - East Lane,Sweet Home,32,HWY 228,T14S R01W S16 SENW,"44ï¿½ï¿½21'ï¿½10""","-122ï¿½ï¿½49'ï¿½8""",L,Linn,9/3/2012 17:30,Miscellaneous,2,2
+2012,77 - East Lane,Sweet Home,36,OLD MILL,T12S R01W S12 SESW,"44ï¿½ï¿½32'ï¿½9""","-122ï¿½ï¿½45'ï¿½27""",J,Linn,9/9/2012 18:36,Miscellaneous,1.15,1.15
+2012,77 - East Lane,East Lane,38,LaSells Fire,T21S R01W S33 NESW,"43ï¿½ï¿½41'ï¿½59""","-122ï¿½ï¿½49'ï¿½11""",L,Lane,9/13/2012 13:45,Recreationist,0.25,0.25
+2012,77 - East Lane,East Lane,41,Camp Cr 590 Loader Fire,T17S R03E S29 NWSE,"44ï¿½ï¿½3'ï¿½48""","-122ï¿½ï¿½28'ï¿½36""",X,Lane,9/17/2012 9:30,Equipment Use,0,0
+2012,77 - East Lane,East Lane,43,Enterprise Fire,T19S R02W S08 SESE,"43ï¿½ï¿½55'ï¿½36""","-122ï¿½ï¿½56'ï¿½55""",L,Lane,9/18/2012 16:30,Equipment Use,1.5,1.5
+2012,77 - East Lane,East Lane,45,Molitor Hill Mowing Fire,T20S R03W S14 SWSW,"43ï¿½ï¿½49'ï¿½24""","-123ï¿½ï¿½1'ï¿½18""",L,Lane,9/24/2012 15:24,Equipment Use,0.01,0.01
+2012,77 - East Lane,Sweet Home,45,MCDOWELL CRK 600,T12S R01E S35 NESE,"44ï¿½ï¿½29'ï¿½3""","-122ï¿½ï¿½38'ï¿½34""",J,Linn,9/18/2012 13:48,Recreationist,0.1,0.1
+2012,77 - East Lane,East Lane,47,Cerro Gordo Fire,T20S R02W S22 NWNW,"43ï¿½ï¿½49'ï¿½12""","-122ï¿½ï¿½55'ï¿½38""",H,Lane,9/27/2012 16:10,Debris Burning,0.01,0.01
+2012,77 - East Lane,East Lane,48,Buck Mountain Fire,T16S R03W S12 NENE,"44ï¿½ï¿½11'ï¿½45""","-122ï¿½ï¿½59'ï¿½13""",J,Lane,9/28/2012 20:15,Recreationist,18,18
+2012,77 - East Lane,Sweet Home,48,HOLLEY BRIDGE FIRE,T14S R01W S15 SWNE,"44ï¿½ï¿½21'ï¿½16""","-122ï¿½ï¿½47'ï¿½19""",L,Linn,9/26/2012 8:43,Debris Burning,0.01,0.01
+2012,77 - East Lane,East Lane,50,Honey Bee Lane Fire,T16S R01W S19 NWSW,"44ï¿½ï¿½9'ï¿½44""","-122ï¿½ï¿½51'ï¿½48""",X,Lane,9/29/2012 14:25,Miscellaneous,0.01,0.01
+2012,77 - East Lane,East Lane,51,Big River Fire,T23S R03W S03 NENE,"43ï¿½ï¿½36'ï¿½17""","-123ï¿½ï¿½1'ï¿½48""",G,Lane,9/29/2012 17:20,Recreationist,0.01,0.01
+2012,77 - East Lane,Sweet Home,51,CANYON CREEK FIRE,T13S R03E S33 SENE,"44ï¿½ï¿½23'ï¿½46""","-122ï¿½ï¿½26'ï¿½47""",H,Linn,10/2/2012 22:06,Equipment Use,0.4,0.4
+2012,77 - East Lane,East Lane,52,Row River Fire,T21S R02W S14 SWSE,"43ï¿½ï¿½41'ï¿½50""","-122ï¿½ï¿½50'ï¿½23""",X,Lane,9/29/2012 22:33,Recreationist,0.01,0.01
+2012,77 - East Lane,East Lane,53,Big River 2 Fire,T23S R03W S03 SESW,"43ï¿½ï¿½35'ï¿½38""","-123ï¿½ï¿½2'ï¿½2""",G,Lane,9/30/2012 10:40,Recreationist,0.01,0.01
+2012,77 - East Lane,East Lane,60,Cedar Flat Fire,T17S R01W S32 SWSE,"44ï¿½ï¿½2'ï¿½32""","-122ï¿½ï¿½49'ï¿½55""",H,Lane,5/12/2012 13:03,Debris Burning,0.1,0.1
+2012,77 - East Lane,East Lane,61,Dennis Road Fire,T21S R02W S19 SWSW,"43ï¿½ï¿½44'ï¿½9""","-122ï¿½ï¿½58'ï¿½7""",F,Lane,5/18/2012 13:30,Debris Burning,0.01,0.01
+2012,77 - East Lane,East Lane,62,Lost Creek Fire,T20S R01W S24 SWNW,"43ï¿½ï¿½49'ï¿½10""","-122ï¿½ï¿½45'ï¿½41""",H,Lane,10/7/2012 10:55,Smoking,0.5,0.5
+2012,77 - East Lane,East Lane,62,Steele Bag Fire,T16S R01E S32 NWSW,"44ï¿½ï¿½7'ï¿½56""","-122ï¿½ï¿½43'ï¿½23""",K,Lane,5/11/2012 8:00,Debris Burning,0.15,0.15
+2012,77 - East Lane,East Lane,63,Mosby Creek Fire,T21S R03W S01 SWSE,"43ï¿½ï¿½45'ï¿½58""","-122ï¿½ï¿½59'ï¿½38""",L,Lane,10/8/2012 17:58,Recreationist,0.1,0.1
+2012,77 - East Lane,East Lane,63,Nichols Fire,T21S R03W S17 NWNW,"43ï¿½ï¿½44'ï¿½50""","-123ï¿½ï¿½5'ï¿½5""",J,Lane,5/30/2012 17:00,Debris Burning,0.15,0.15
+2012,77 - East Lane,East Lane,64,Clear Water Park Fire,T18S R02W S06 SWSE,"44ï¿½ï¿½1'ï¿½39""","-122ï¿½ï¿½58'ï¿½29""",F,Lane,10/9/2012 19:26,Recreationist,1.6,1.6
+2012,77 - East Lane,Sweet Home,66,HILLTOP,T12S R01W S27 NENE,"44ï¿½ï¿½30'ï¿½11""","-122ï¿½ï¿½46'ï¿½54""",L,Linn,10/18/2012 16:00,Debris Burning,16.5,16.5
+2012,77 - East Lane,East Lane,68,West Oak,T21S R03E S08 NWSE,"43ï¿½ï¿½45'ï¿½43""","-122ï¿½ï¿½28'ï¿½30""",L,Lane,10/18/2012 11:59,Debris Burning,0.25,0.25
+2012,77 - East Lane,East Lane,69,Parson's Creek Fire,T16S R02W S14 NENE,"44ï¿½ï¿½11'ï¿½4""","-122ï¿½ï¿½53'ï¿½47""",L,Lane,10/18/2012 11:59,Debris Burning,0.01,0.01
+2012,78 - West Lane,West Lane,2,Warthen Road #1,T17S R06W S23 SWSE,"44ï¿½ï¿½4'ï¿½21""","-123ï¿½ï¿½22'ï¿½36""",L,Lane,7/6/2012 12:59,Miscellaneous,0.01,0.01
+2012,78 - West Lane,West Lane,5,North Loftus,T19S R12W S03 SENE,"43ï¿½ï¿½56'ï¿½59""","-124ï¿½ï¿½6'ï¿½19""",K,Lane,7/19/2012 14:14,Debris Burning,0.01,0.01
+2012,78 - West Lane,West Lane,7,Canary Road Fire,T19S R12W S12 NESW,"43ï¿½ï¿½55'ï¿½56""","-124ï¿½ï¿½4'ï¿½42""",A,Lane,7/25/2012 17:12,Miscellaneous,0.01,0.01
+2012,78 - West Lane,West Lane,12,CG-Lorane Hwy Ditch,T20S R04W S07 SWSW,"43ï¿½ï¿½50'ï¿½20""","-123ï¿½ï¿½13'ï¿½22""",L,Lane,8/1/2012 10:46,Miscellaneous,0.01,0.01
+2012,78 - West Lane,West Lane,13,Scheffler #1,T17S R06W S23 NWSE,"44ï¿½ï¿½4'ï¿½31""","-123ï¿½ï¿½22'ï¿½44""",J,Lane,8/2/2012 15:07,Debris Burning,0.1,0.1
+2012,78 - West Lane,West Lane,14,Battle Trash Fire,T19S R05W S06 SESW,"43ï¿½ï¿½56'ï¿½49""","-123ï¿½ï¿½20'ï¿½43""",X,Lane,8/6/2012 11:23,Debris Burning,0.01,0.01
+2012,78 - West Lane,West Lane,15,Pope & Tolbot Road Fire,T15S R06W S08 NWSE,"44ï¿½ï¿½16'ï¿½49""","-123ï¿½ï¿½26'ï¿½38""",F,Lane,8/7/2012 14:59,Lightning,0.5,0.5
+2012,78 - West Lane,West Lane,16,Gunter Schoolhouse Fire,T20S R06W S33 NESW,"43ï¿½ï¿½47'ï¿½7""","-123ï¿½ï¿½25'ï¿½30""",A,Douglas,8/8/2012 9:53,Miscellaneous,0.15,0.15
+2012,78 - West Lane,West Lane,20,Gowdyville Fire #1,T20S R04W S35 SWNE,"43ï¿½ï¿½47'ï¿½25""","-123ï¿½ï¿½8'ï¿½6""",F,Lane,8/16/2012 10:52,Recreationist,0.01,0.01
+2012,78 - West Lane,West Lane,22,Warthen #2 Fire,T17S R06W S25 NESW,"44ï¿½ï¿½4'ï¿½1""","-123ï¿½ï¿½21'ï¿½19""",A,Lane,8/18/2012 14:10,Equipment Use,0.03,0.03
+2012,78 - West Lane,West Lane,24,CG North Jetty Fire,T18S R12W S09 SWSW,"44ï¿½ï¿½1'ï¿½11""","-124ï¿½ï¿½8'ï¿½23""",L,Lane,8/24/2012 12:56,Recreationist,0.01,0.01
+2012,78 - West Lane,West Lane,26,24th Street Fire,T18S R12W S23 SENW,"43ï¿½ï¿½59'ï¿½29""","-124ï¿½ï¿½5'ï¿½33""",F,Lane,8/31/2012 10:27,Recreationist,0.25,0.25
+2012,78 - West Lane,West Lane,28,Oak St. Fire,T18S R12W S14 SWSW,"44ï¿½ï¿½0'ï¿½1""","-124ï¿½ï¿½6'ï¿½12""",A,Lane,9/4/2012 16:24,Recreationist,0.01,0.01
+2012,78 - West Lane,West Lane,32,Silvan Short Fire,T18S R05W S35 SWSW,"43ï¿½ï¿½57'ï¿½25""","-123ï¿½ï¿½15'ï¿½54""",X,Lane,9/10/2012 10:50,Miscellaneous,0.01,0.01
+2012,78 - West Lane,West Lane,34,Suttle Road #1,T17S R06W S33 SENW,"44ï¿½ï¿½3'ï¿½9""","-123ï¿½ï¿½25'ï¿½33""",L,Lane,9/11/2012 11:35,Equipment Use,0.01,0.01
+2012,78 - West Lane,West Lane,35,Kenady Ln #1,T21S R04W S01 SWNE,"43ï¿½ï¿½46'ï¿½26""","-123ï¿½ï¿½7'ï¿½1""",J,Lane,9/15/2012 17:51,Recreationist,0.01,0.01
+2012,78 - West Lane,West Lane,36,Fergie Fire,T15S R06W S15 NWNE,"44ï¿½ï¿½16'ï¿½21""","-123ï¿½ï¿½23'ï¿½53""",H,Lane,9/16/2012 18:15,Miscellaneous,0.54,0.54
+2012,78 - West Lane,West Lane,39,Green River,T15S R10W S26 SWNE,"44ï¿½ï¿½14'ï¿½17""","-123ï¿½ï¿½51'ï¿½53""",K,Lane,9/28/2012 18:04,Smoking,0.75,0.75
+2012,78 - West Lane,West Lane,40,North Jetty Fire,T18S R12W S09 NWSW,"44ï¿½ï¿½1'ï¿½9""","-124ï¿½ï¿½8'ï¿½19""",I,Lane,9/30/2012 10:38,Recreationist,0.01,0.01
+2012,78 - West Lane,West Lane,43,MP 26 Fire,T18S R08W S16 SENW,"44ï¿½ï¿½0'ï¿½24""","-123ï¿½ï¿½39'ï¿½47""",A,Lane,10/3/2012 16:46,Miscellaneous,0.01,0.01
+2012,78 - West Lane,West Lane,45,NE ROMAN NOSE,T19S R08W S06 NESW,"43ï¿½ï¿½56'ï¿½38""","-123ï¿½ï¿½41'ï¿½36""",J,Lane,10/6/2012 17:46,Smoking,0.79,0.79
+2012,78 - West Lane,West Lane,47,Bear Ridge,T16S R07W S14 SESE,"44ï¿½ï¿½10'ï¿½34""","-123ï¿½ï¿½29'ï¿½35""",H,Lane,10/8/2012 4:43,Equipment Use,1.5,1.5
+2012,78 - West Lane,West Lane,49,Grant Creek,T19S R11W S05 SENW,"43ï¿½ï¿½57'ï¿½3""","-124ï¿½ï¿½2'ï¿½11""",I,Lane,10/17/2012 12:00,Debris Burning,0.25,0.25
+2012,78 - West Lane,West Lane,50,Neely Mountain,T18S R10W S04 SENE,"44ï¿½ï¿½2'ï¿½16""","-123ï¿½ï¿½53'ï¿½38""",I,Lane,10/18/2012 11:55,Debris Burning,1,1
+2012,78 - West Lane,West Lane,55,Iris Ridge,T18S R04W S10 NWSE,"44ï¿½ï¿½1'ï¿½5""","-123ï¿½ï¿½9'ï¿½24""",C,Lane,5/10/2012 19:33,Debris Burning,1,1
+2012,78 - West Lane,West Lane,57,Swampy Barnhardt,T18S R10W S07 SWSE,"44ï¿½ï¿½0'ï¿½51""","-123ï¿½ï¿½56'ï¿½11""",L,Lane,5/19/2012 17:02,Debris Burning,1.5,1.5
+2012,95 - Central Oregon,Sisters,1,Pole Fire 0177,T15S R10E S01 SESW,"44ï¿½ï¿½17'ï¿½29""","-121ï¿½ï¿½29'ï¿½5""",A,Deschutes,7/2/2012 13:53,Equipment Use,0.08,0.08
+2012,95 - Central Oregon,John Day,2,Steward Ditch II,T12S R27E S27 SWSE,"44ï¿½ï¿½29'ï¿½27""","-119ï¿½ï¿½27'ï¿½20""",C,Grant,7/7/2012 14:59,Lightning,230,230
+2012,95 - Central Oregon,Prineville,3,Corral,T11S R18E S21 SENW,"44ï¿½ï¿½35'ï¿½59""","-120ï¿½ï¿½34'ï¿½40""",C,Jefferson,7/14/2012 16:16,Lightning,0.3,0.3
+2012,95 - Central Oregon,Prineville,4,Cat Mt. (2),T11S R17E S26 SWSW,"44ï¿½ï¿½34'ï¿½52""","-120ï¿½ï¿½39'ï¿½48""",C,Jefferson,7/14/2012 17:11,Lightning,0.1,0.1
+2012,95 - Central Oregon,The Dalles,4,Exit 62 I-84,T03N R10E S27 SWNE,"45ï¿½ï¿½42'ï¿½41""","-121ï¿½ï¿½33'ï¿½6""",A,Hood River,7/4/2012 22:08,Miscellaneous,0,1
+2012,95 - Central Oregon,Prineville,5,Amity Cr,T11S R18E S13 NWNW,"44ï¿½ï¿½36'ï¿½9""","-120ï¿½ï¿½31'ï¿½5""",C,Jefferson,7/14/2012 17:35,Lightning,0.1,0.1
+2012,95 - Central Oregon,Sisters,5,Triple Strike 0206,T14S R09E S07 SWNE,"44ï¿½ï¿½22'ï¿½23""","-121ï¿½ï¿½42'ï¿½8""",C,Deschutes,7/9/2012 15:13,Lightning,0.6,0.6
+2012,95 - Central Oregon,Prineville,6,Lofton Cr. 232,T13S R15E S12 NWNE,"44ï¿½ï¿½27'ï¿½41""","-120ï¿½ï¿½52'ï¿½23""",A,Crook,7/14/2012 19:45,Lightning,0.1,0.1
+2012,95 - Central Oregon,Sisters,6,Old Truck Meadow 209,T17S R11E S17 NWSW,"44ï¿½ï¿½6'ï¿½8""","-121ï¿½ï¿½25'ï¿½59""",C,Deschutes,7/9/2012 19:48,Recreationist,0.83,0.83
+2012,95 - Central Oregon,Prineville,7,Dutchman Creek,T11S R17E S34 SENE,"44ï¿½ï¿½34'ï¿½18""","-120ï¿½ï¿½39'ï¿½59""",C,Jefferson,7/14/2012 17:47,Lightning,0.1,0.1
+2012,95 - Central Oregon,John Day,7,Oxhead Ridge,T06S R23E S29 NWSE,"45ï¿½ï¿½0'ï¿½52""","-119ï¿½ï¿½59'ï¿½47""",C,Wheeler,7/8/2012 20:08,Lightning,0.25,0.25
+2012,95 - Central Oregon,Sisters,7,Lake Rd 0210,T14S R10E S25 NESE,"44ï¿½ï¿½19'ï¿½39""","-121ï¿½ï¿½28'ï¿½29""",F,Deschutes,7/9/2012 19:51,Lightning,0.1,0.1
+2012,95 - Central Oregon,Sisters,8,Indio 0215,T20S R10E S12 SESE,"43ï¿½ï¿½51'ï¿½0""","-121ï¿½ï¿½28'ï¿½59""",J,Deschutes,7/10/2012 16:47,Debris Burning,0.01,0.01
+2012,95 - Central Oregon,The Dalles,10,Fairway Road,T04S R12E S04 SESE,"45ï¿½ï¿½14'ï¿½43""","-121ï¿½ï¿½18'ï¿½2""",L,Wasco,7/19/2012 19:31,Juveniles,0.01,0.01
+2012,95 - Central Oregon,The Dalles,11,Mill Creek,T01N R12E S29 SWSW,"45ï¿½ï¿½32'ï¿½8""","-121ï¿½ï¿½21'ï¿½14""",C,Wasco,7/19/2012 21:11,Lightning,4.8,4.8
+2012,95 - Central Oregon,The Dalles,12,Westridge,T03N R10E S33 SWNE,"45ï¿½ï¿½42'ï¿½14""","-121ï¿½ï¿½34'ï¿½22""",H,Hood River,7/19/2012 22:55,Lightning,0.01,0.01
+2012,95 - Central Oregon,John Day,13,Briley Mountain,T08S R28E S28 SENE,"44ï¿½ï¿½50'ï¿½53""","-119ï¿½ï¿½22'ï¿½15""",A,Grant,7/9/2012 11:08,Lightning,751,751
+2012,95 - Central Oregon,The Dalles,13,Green Point,T01N R09E S05 NWNE,"45ï¿½ï¿½36'ï¿½12""","-121ï¿½ï¿½43'ï¿½6""",H,Hood River,7/20/2012 7:00,Lightning,0.02,0.02
+2012,95 - Central Oregon,The Dalles,14,Oak Flat,T01N R12E S25 NENE,"45ï¿½ï¿½32'ï¿½50""","-121ï¿½ï¿½15'ï¿½17""",R,Wasco,7/20/2012 8:45,Lightning,4.92,4.92
+2012,95 - Central Oregon,John Day,15,Bailey Butte,T12S R20E S07 SENE,"44ï¿½ï¿½32'ï¿½34""","-120ï¿½ï¿½22'ï¿½1""",L,Wheeler,7/9/2012 9:50,Lightning,0.25,0.25
+2012,95 - Central Oregon,John Day,16,Corral Mountain,T08S R22E S20 NWNE,"44ï¿½ï¿½51'ï¿½57""","-120ï¿½ï¿½6'ï¿½59""",C,Wheeler,7/9/2012 13:48,Lightning,0.01,0.01
+2012,95 - Central Oregon,The Dalles,16,I84 MP55,T02N R09E S04 NENE,"45ï¿½ï¿½41'ï¿½19""","-121ï¿½ï¿½41'ï¿½32""",A,Hood River,7/27/2012 17:10,Equipment Use,0.25,0.25
+2012,95 - Central Oregon,The Dalles,17,Mosier Creek,T02N R11E S01 SWSE,"45ï¿½ï¿½40'ï¿½50""","-121ï¿½ï¿½23'ï¿½10""",A,Wasco,8/13/2012 15:50,Equipment Use,0.2,0.2
+2012,95 - Central Oregon,Sisters,17,Hunnington 0291,T22S R10E S27 NESE,"43ï¿½ï¿½38'ï¿½15""","-121ï¿½ï¿½30'ï¿½28""",J,Deschutes,7/19/2012 8:05,Debris Burning,0.01,0.01
+2012,95 - Central Oregon,John Day,18,Canyon Creek,T14S R31E S24 SWSW,"44ï¿½ï¿½20'ï¿½6""","-118ï¿½ï¿½57'ï¿½3""",C,Grant,7/10/2012 14:34,Miscellaneous,1.5,1.5
+2012,95 - Central Oregon,The Dalles,18,Elk Creek,T01S R08E S35 SWNW,"45ï¿½ï¿½26'ï¿½31""","-121ï¿½ï¿½47'ï¿½49""",H,Hood River,8/14/2012 13:00,Recreationist,0.01,0.04
+2012,95 - Central Oregon,Sisters,18,Pine Brook 0298,T18S R12E S17 SWNW,"44ï¿½ï¿½1'ï¿½1""","-121ï¿½ï¿½19'ï¿½12""",C,Deschutes,7/20/2012 10:55,Smoking,0.01,0.01
+2012,95 - Central Oregon,The Dalles,19,Dee Mill,T01N R10E S07 SWNW,"45ï¿½ï¿½35'ï¿½14""","-121ï¿½ï¿½37'ï¿½34""",X,Hood River,8/15/2012 11:53,Smoking,0.01,0.01
+2012,95 - Central Oregon,Sisters,19,Riverland 229,T22S R10E S16 NWSW,"43ï¿½ï¿½39'ï¿½59""","-121ï¿½ï¿½23'ï¿½29""",C,Deschutes,7/20/2012 13:27,Debris Burning,0.06,0.06
+2012,95 - Central Oregon,John Day,20,Hacheney Spring,T14S R32E S06 SENW,"44ï¿½ï¿½23'ï¿½4""","-118ï¿½ï¿½55'ï¿½28""",J,Grant,7/12/2012 9:18,Recreationist,0.01,0.01
+2012,95 - Central Oregon,Sisters,20,Upland 0333,T20S R10E S24 NWNE,"43ï¿½ï¿½49'ï¿½53""","-121ï¿½ï¿½28'ï¿½31""",C,Deschutes,7/29/2012 15:28,Debris Burning,0.1,0.1
+2012,95 - Central Oregon,John Day,21,Kingbolt Spring,T07S R27E S21 NWSW,"44ï¿½ï¿½56'ï¿½48""","-119ï¿½ï¿½30'ï¿½41""",A,Grant,7/14/2012 6:03,Lightning,33.6,33.6
+2012,95 - Central Oregon,The Dalles,21,Lost Lake Road,T01N R09E S14 SWSE,"45ï¿½ï¿½33'ï¿½58""","-121ï¿½ï¿½39'ï¿½38""",H,Hood River,8/21/2012 5:50,Miscellaneous,0.23,0.23
+2012,95 - Central Oregon,John Day,22,Linder Basin,T08S R30E S07 SWNW,"44ï¿½ï¿½53'ï¿½23""","-119ï¿½ï¿½9'ï¿½39""",C,Grant,7/14/2012 8:17,Lightning,0.1,0.1
+2012,95 - Central Oregon,The Dalles,22,Deer Creek,T01N R09E S26 NWNW,"45ï¿½ï¿½32'ï¿½56""","-121ï¿½ï¿½40'ï¿½7""",I,Hood River,8/21/2012 15:45,Equipment Use,0.01,0.01
+2012,95 - Central Oregon,Sisters,22,Walling 0346,T22S R10E S14 NESW,"43ï¿½ï¿½39'ï¿½54""","-121ï¿½ï¿½29'ï¿½44""",C,Deschutes,8/3/2012 10:49,Juveniles,0.1,0.1
+2012,95 - Central Oregon,John Day,23,Oxbow Reservoir,T14S R34E S18 NWNW,"44ï¿½ï¿½21'ï¿½45""","-118ï¿½ï¿½40'ï¿½57""",C,Grant,7/14/2012 10:42,Lightning,0.1,0.1
+2012,95 - Central Oregon,The Dalles,23,Ketchum Road,T01N R12E S08 SWSE,"45ï¿½ï¿½34'ï¿½48""","-121ï¿½ï¿½20'ï¿½43""",R,Wasco,8/31/2012 17:50,Smoking,0.2,0.2
+2012,95 - Central Oregon,Sisters,23,Scofield 0366,T15S R10E S12 NESW,"44ï¿½ï¿½16'ï¿½57""","-121ï¿½ï¿½29'ï¿½2""",C,Deschutes,8/5/2012 20:22,Lightning,0.01,0.01
+2012,95 - Central Oregon,Sisters,25,Ruble 0374,T14S R11E S31 SENW,"44ï¿½ï¿½18'ï¿½50""","-121ï¿½ï¿½27'ï¿½54""",C,Deschutes,8/6/2012 7:10,Lightning,0.1,0.1
+2012,95 - Central Oregon,Sisters,26,Bluegrass,T14S R09E S31 NWNW,"44ï¿½ï¿½19'ï¿½12""","-121ï¿½ï¿½42'ï¿½37""",C,Deschutes,8/6/2012 8:04,Lightning,0.1,0.1
+2012,95 - Central Oregon,The Dalles,27,Dodson Road,T04S R12E S11 SWSW,"45ï¿½ï¿½13'ï¿½50""","-121ï¿½ï¿½16'ï¿½27""",A,Wasco,9/8/2012 13:50,Debris Burning,0,0.4
+2012,95 - Central Oregon,The Dalles,28,Herman Creek,T02N R08E S05 SWNW,"45ï¿½ï¿½40'ï¿½59""","-121ï¿½ï¿½51'ï¿½38""",R,Hood River,9/13/2012 14:00,Smoking,0.06,0.06
+2012,95 - Central Oregon,Sisters,28,COIDC #0388,T12S R11E S34 NWNW,"44ï¿½ï¿½29'ï¿½38""","-121ï¿½ï¿½24'ï¿½25""",T,Jefferson,8/6/2012 11:09,Lightning,0,0.1
+2012,95 - Central Oregon,John Day,29,Winlock,T08S R24E S05 NWNE,"44ï¿½ï¿½54'ï¿½26""","-119ï¿½ï¿½52'ï¿½40""",X,Wheeler,7/15/2012 7:23,Debris Burning,0.01,0.01
+2012,95 - Central Oregon,Sisters,29,CP-10 0389,T16S R10E S36 NESW,"44ï¿½ï¿½8'ï¿½41""","-121ï¿½ï¿½28'ï¿½43""",C,Deschutes,8/6/2012 11:51,Lightning,0.1,0.1
+2012,95 - Central Oregon,John Day,30,Timber Basin,T11S R27E S33 SESE,"44ï¿½ï¿½33'ï¿½59""","-119ï¿½ï¿½28'ï¿½24""",H,Grant,7/15/2012 14:43,Lightning,0.1,0.1
+2012,95 - Central Oregon,The Dalles,30,Cotton,T02N R12E S33 SENE,"45ï¿½ï¿½36'ï¿½51""","-121ï¿½ï¿½19'ï¿½0""",R,Wasco,9/20/2012 4:00,Equipment Use,3.85,3.85
+2012,95 - Central Oregon,John Day,31,Elk Grove,T07S R30E S04 NWSE,"44ï¿½ï¿½59'ï¿½19""","-119ï¿½ï¿½6'ï¿½35""",H,Grant,7/15/2012 14:51,Lightning,7.5,7.5
+2012,95 - Central Oregon,The Dalles,31,MP 66 - I 84,T03N R11E S32 SWNE,"45ï¿½ï¿½41'ï¿½56""","-121ï¿½ï¿½28'ï¿½14""",H,Hood River,9/25/2012 20:05,Railroad,31.5,60
+2012,95 - Central Oregon,Sisters,31,Geneva XII,T12S R11E S23 SESW,"44ï¿½ï¿½30'ï¿½46""","-121ï¿½ï¿½23'ï¿½7""",F,Jefferson,8/6/2012 12:22,Lightning,12,1337
+2012,95 - Central Oregon,John Day,32,Pine Hollow,T10S R27E S01 NWSW,"44ï¿½ï¿½43'ï¿½51""","-119ï¿½ï¿½25'ï¿½43""",T,Grant,7/15/2012 18:11,Lightning,0.01,0.01
+2012,95 - Central Oregon,The Dalles,32,Trout Creek Ridge Road,T01N R10E S18 SWSE,"45ï¿½ï¿½34'ï¿½0""","-121ï¿½ï¿½36'ï¿½59""",C,Hood River,9/26/2012 20:15,Smoking,0.01,0.01
+2012,95 - Central Oregon,Sisters,32,Indian Prairie,T14S R10E S07 NENW,"44ï¿½ï¿½22'ï¿½30""","-121ï¿½ï¿½35'ï¿½16""",H,Jefferson,8/6/2012 13:15,Lightning,0,0.25
+2012,95 - Central Oregon,John Day,33,Ox Head,T08S R22E S36 SESW,"44ï¿½ï¿½49'ï¿½22""","-120ï¿½ï¿½0'ï¿½28""",A,Wheeler,7/16/2012 0:16,Lightning,3.5,3.5
+2012,95 - Central Oregon,The Dalles,33,Elder Road,T02N R11E S29 SENE,"45ï¿½ï¿½37'ï¿½49""","-121ï¿½ï¿½27'ï¿½44""",H,Hood River,9/27/2012 13:10,Arson,1.33,1.33
+2012,95 - Central Oregon,John Day,34,Fox Valley,T11S R29E S27 NWNW,"44ï¿½ï¿½35'ï¿½26""","-119ï¿½ï¿½13'ï¿½21""",C,Grant,7/16/2012 15:37,Lightning,1.5,1.5
+2012,95 - Central Oregon,The Dalles,34,Frankton Road,T03N R10E S27 SESW,"45ï¿½ï¿½42'ï¿½31""","-121ï¿½ï¿½33'ï¿½30""",F,Hood River,9/30/2012 16:37,Equipment Use,0.28,0.28
+2012,95 - Central Oregon,The Dalles,34,Smock Road,T04S R12E S21 SWSE,"45ï¿½ï¿½12'ï¿½15""","-121ï¿½ï¿½18'ï¿½12""",R,Wasco,5/6/2012 16:45,Debris Burning,0.1,0.1
+2012,95 - Central Oregon,John Day,35,Buckhorn,T07S R28E S31 NWNE,"44ï¿½ï¿½55'ï¿½26""","-119ï¿½ï¿½25'ï¿½5""",A,Grant,7/16/2012 16:27,Lightning,0.01,0.01
+2012,95 - Central Oregon,The Dalles,35,Stone Fire,T02S R12E S15 SWNW,"45ï¿½ï¿½23'ï¿½56""","-121ï¿½ï¿½17'ï¿½48""",R,Wasco,5/15/2012 13:14,Debris Burning,0.37,0.37
+2012,95 - Central Oregon,The Dalles,36,I84 MP76,T02N R12E S11 NWNE,"45ï¿½ï¿½40'ï¿½35""","-121ï¿½ï¿½16'ï¿½51""",A,Wasco,5/30/2012 10:13,Equipment Use,0.1,0.1
+2012,95 - Central Oregon,The Dalles,37,Binns Hill,T02N R09E S24 NWNE,"45ï¿½ï¿½38'ï¿½53""","-121ï¿½ï¿½38'ï¿½0""",J,Hood River,6/8/2012 1:05,Arson,0.7,0.7
+2012,95 - Central Oregon,Sisters,37,Apache Tears 1,T22S R10E S14 NWSE,"43ï¿½ï¿½39'ï¿½53""","-121ï¿½ï¿½29'ï¿½32""",H,Deschutes,8/7/2012 12:39,Arson,0.05,0.05
+2012,95 - Central Oregon,The Dalles,38,Dufur Mill,T02S R12E S04 SWSE,"45ï¿½ï¿½25'ï¿½10""","-121ï¿½ï¿½18'ï¿½19""",A,Wasco,6/9/2012 15:00,Debris Burning,3.59,3.59
+2012,95 - Central Oregon,Sisters,38,Apache Tears 2,T22S R10E S14 NWSE,"43ï¿½ï¿½39'ï¿½54""","-121ï¿½ï¿½29'ï¿½31""",H,Deschutes,8/7/2012 15:47,Arson,0.1,0.1
+2012,95 - Central Oregon,John Day,39,Neal Butte,T08S R28E S06 SENW,"44ï¿½ï¿½54'ï¿½22""","-119ï¿½ï¿½25'ï¿½15""",A,Grant,7/16/2012 17:56,Lightning,0.01,0.01
+2012,95 - Central Oregon,Sisters,40,Rock Springs Rd 0423,T16S R11E S33 SWSE,"44ï¿½ï¿½8'ï¿½17""","-121ï¿½ï¿½24'ï¿½29""",C,Deschutes,8/8/2012 15:57,Equipment Use,0.33,0.33
+2012,95 - Central Oregon,John Day,41,Mud Spring,T07S R30E S17 NWNW,"44ï¿½ï¿½57'ï¿½53""","-119ï¿½ï¿½8'ï¿½36""",K,Grant,7/17/2012 13:01,Lightning,0.02,0.02
+2012,95 - Central Oregon,John Day,42,Chapin Meadow,T05S R26E S31 SWSE,"45ï¿½ï¿½4'ï¿½58""","-119ï¿½ï¿½37'ï¿½36""",C,Morrow,7/17/2012 17:26,Lightning,0.5,0.5
+2012,95 - Central Oregon,John Day,44,Fopiano Dam,T11S R23E S20 NESW,"44ï¿½ï¿½36'ï¿½0""","-119ï¿½ï¿½59'ï¿½30""",C,Wheeler,7/18/2012 13:55,Lightning,0.25,0.25
+2012,95 - Central Oregon,John Day,45,Stone Gulch,T09S R29E S05 NWNE,"44ï¿½ï¿½49'ï¿½15""","-119ï¿½ï¿½15'ï¿½17""",A,Grant,7/18/2012 18:04,Lightning,44,44
+2012,95 - Central Oregon,John Day,47,Yoyo Springs,T07S R29E S18 SENW,"44ï¿½ï¿½57'ï¿½45""","-119ï¿½ï¿½17'ï¿½20""",L,Grant,7/18/2012 19:39,Lightning,0.48,0.48
+2012,95 - Central Oregon,Sisters,48,Sacramento Rd 0464,T20S R10E S13 SESW,"43ï¿½ï¿½50'ï¿½12""","-121ï¿½ï¿½28'ï¿½49""",A,Deschutes,8/19/2012 13:15,Miscellaneous,0.25,0.25
+2012,95 - Central Oregon,John Day,51,Coe Spring,T09S R29E S21 NENW,"44ï¿½ï¿½26'ï¿½45""","-119ï¿½ï¿½14'ï¿½19""",A,Grant,7/19/2012 16:11,Lightning,57.3,57.3
+2012,95 - Central Oregon,John Day,53,Davis Spring,T09S R27E S36 NWSW,"44ï¿½ï¿½44'ï¿½39""","-119ï¿½ï¿½25'ï¿½35""",T,Grant,7/19/2012 18:47,Lightning,9.6,9.6
+2012,95 - Central Oregon,John Day,54,East Gulch,T15S R31E S13 SWSE,"44ï¿½ï¿½15'ï¿½49""","-118ï¿½ï¿½26'ï¿½22""",L,Grant,7/23/2012 14:27,Equipment Use,0.02,0.02
+2012,95 - Central Oregon,John Day,55,Indian Creek,T09S R32E S05 NWNW,"44ï¿½ï¿½49'ï¿½17""","-118ï¿½ï¿½53'ï¿½59""",K,Grant,7/24/2012 18:19,Lightning,0.5,0.5
+2012,95 - Central Oregon,Sisters,55,Meadow View 0512,T14S R10E S21 NESE,"44ï¿½ï¿½20'ï¿½19""","-121ï¿½ï¿½32'ï¿½13""",J,Deschutes,9/1/2012 15:53,Miscellaneous,0.1,0.1
+2012,95 - Central Oregon,Sisters,58,Pole Creek,T16S R09E S19 SWNE,"44ï¿½ï¿½10'ï¿½31""","-121ï¿½ï¿½41'ï¿½44""",G,Deschutes,9/9/2012 9:32,Lightning,0,26795
+2012,95 - Central Oregon,John Day,59,Alarm Clock,T16S R36E S01 SWNW,"44ï¿½ï¿½12'ï¿½26""","-118ï¿½ï¿½14'ï¿½52""",C,Grant,8/19/2012 15:12,Lightning,2,2
+2012,95 - Central Oregon,John Day,63,Trowbridge,T13S R31E S24 SWSW,"44ï¿½ï¿½25'ï¿½11""","-118ï¿½ï¿½56'ï¿½20""",A,Grant,8/25/2012 2:05,Equipment Use,3,3
+2012,95 - Central Oregon,Sisters,63,Boulder 0550,T14S R11E S07 SWNW,"44ï¿½ï¿½22'ï¿½21""","-121ï¿½ï¿½27'ï¿½29""",C,Deschutes,9/14/2012 20:50,Lightning,0.2,0.2
+2012,95 - Central Oregon,Sisters,65,Maple Drive 0566,T20S R10E S36 SESE,"43ï¿½ï¿½47'ï¿½43""","-121ï¿½ï¿½27'ï¿½59""",C,Deschutes,9/18/2012 16:38,Lightning,0.02,0.02
+2012,95 - Central Oregon,Sisters,67,Golden,T21S R11E S32 SWNW,"43ï¿½ï¿½42'ï¿½46""","-121ï¿½ï¿½26'ï¿½48""",C,Deschutes,9/18/2012 17:12,Smoking,0.01,0.01
+2012,95 - Central Oregon,John Day,69,Carter Rest Stop,T10S R30E S22 NESW,"44ï¿½ï¿½41'ï¿½2""","-119ï¿½ï¿½5'ï¿½55""",C,Grant,9/3/2012 17:02,Recreationist,0.01,0.01
+2012,95 - Central Oregon,Sisters,72,Hopi Road 0581,T18S R11E S36 NENW,"43ï¿½ï¿½58'ï¿½43""","-121ï¿½ï¿½21'ï¿½17""",C,Deschutes,9/23/2012 15:01,Miscellaneous,0.1,0.1
+2012,95 - Central Oregon,John Day,78,J Bar L,T15S R31E S11 NWSE,"44ï¿½ï¿½16'ï¿½58""","-118ï¿½ï¿½57'ï¿½34""",C,Grant,10/16/2012 13:45,Equipment Use,0.01,0.01
+2012,95 - Central Oregon,John Day,79,Gordon Butte,T14S R30E S23 NESW,"44ï¿½ï¿½20'ï¿½22""","-119ï¿½ï¿½5'ï¿½17""",C,Grant,10/16/2012 15:14,Debris Burning,0.01,0.01
+2012,95 - Central Oregon,Sisters,79,Bull Creek 0643,T17S R10E S29 SENW,"44ï¿½ï¿½4'ï¿½32""","-121ï¿½ï¿½29'ï¿½52""",C,Deschutes,10/24/2012 8:01,Recreationist,0.1,0.1
+2012,95 - Central Oregon,John Day,80,Rhea Spring,T05S R27E S11 NWNE,"45ï¿½ï¿½9'ï¿½16""","-119ï¿½ï¿½25'ï¿½20""",C,Morrow,10/31/2012 17:25,Recreationist,77,77
+2012,95 - Central Oregon,John Day,95,West Bench/Rock Pit,T13S R31E S34 SWSW,"44ï¿½ï¿½23'ï¿½23""","-118ï¿½ï¿½58'ï¿½38""",A,Grant,3/4/2012 12:43,Debris Burning,11.25,31.8
+2012,95 - Central Oregon,John Day,103,Mule Shoe Ridge,T08S R22E S25 NWSE,"44ï¿½ï¿½50'ï¿½35""","-120ï¿½ï¿½2'ï¿½6""",A,Wheeler,4/24/2012 13:00,Lightning,0.1,0.1
+2012,95 - Central Oregon,John Day,104,Kimberly,T09S R26E S30 NWNE,"44ï¿½ï¿½45'ï¿½59""","-119ï¿½ï¿½38'ï¿½16""",A,Grant,5/13/2012 16:00,Debris Burning,6,6
+2012,95 - Central Oregon,John Day,108,The Pit,T14S R32E S06 SENW,"44ï¿½ï¿½23'ï¿½2""","-118ï¿½ï¿½55'ï¿½29""",C,Grant,6/24/2012 11:49,Recreationist,0.01,0.01
+2012,95 - Central Oregon,John Day,111,Wiley Creek,T11S R30E S20 NWNE,"44ï¿½ï¿½36'ï¿½19""","-119ï¿½ï¿½8'ï¿½0""",A,Grant,6/27/2012 12:24,Debris Burning,0.5,0.5
+2012,95 - Central Oregon,Sisters,112,Couch Market 0031,T16S R11E S28 NWNE,"44ï¿½ï¿½9'ï¿½53""","-121ï¿½ï¿½24'ï¿½39""",T,Deschutes,3/26/2012 15:10,Debris Burning,5,5
+2012,95 - Central Oregon,Sisters,114,Fremont Meadow,T17S R11E S34 SENW,"44ï¿½ï¿½3'ï¿½44""","-121ï¿½ï¿½23'ï¿½59""",T,Deschutes,4/21/2012 13:29,Debris Burning,1.8,1.8
+2012,95 - Central Oregon,Sisters,116,Fly Lake,T12S R11E S09 NWSW,"44ï¿½ï¿½32'ï¿½43""","-121ï¿½ï¿½25'ï¿½56""",C,Jefferson,4/23/2012 18:27,Lightning,0.5,0.5
+2012,95 - Central Oregon,Sisters,118,Sprague,T21S R10E S14 SWSE,"43ï¿½ï¿½45'ï¿½12""","-121ï¿½ï¿½29'ï¿½54""",C,Deschutes,5/14/2012 16:43,Recreationist,0.2,0.2
+2012,95 - Central Oregon,Sisters,119,Celestial 0076,T20S R10E S12 NWSW,"43ï¿½ï¿½51'ï¿½17""","-121ï¿½ï¿½29'ï¿½8""",C,Deschutes,5/18/2012 6:35,Miscellaneous,0.05,0.05
+2012,95 - Central Oregon,Sisters,121,South LaPine Drive,T22S R10E S26 NENW,"43ï¿½ï¿½38'ï¿½38""","-121ï¿½ï¿½29'ï¿½46""",C,Deschutes,5/30/2012 14:29,Debris Burning,0.28,0.28
+2012,97 - Northeast Oregon,Wallowa,1,Crooked Creek,T06N R42E S23 NESW,"45ï¿½ï¿½56'ï¿½46""","-117ï¿½ï¿½31'ï¿½52""",C,Wallowa,7/3/2012 22:50,Lightning,1.7,1.7
+2012,97 - Northeast Oregon,Pendleton,2,Government Mountain,T05N R37E S22 SENE,"45ï¿½ï¿½53'ï¿½57""","-118ï¿½ï¿½10'ï¿½7""",A,Umatilla,7/8/2012 9:29,Lightning,13.5,13.5
+2012,97 - Northeast Oregon,Wallowa,4,Egglesn Road,T02S R44E S13 NWNW,"45ï¿½ï¿½23'ï¿½45""","-117ï¿½ï¿½16'ï¿½10""",C,Wallowa,7/9/2012 11:15,Lightning,0.01,0.01
+2012,97 - Northeast Oregon,Pendleton,5,Parker Canyon,T03S R31E S13 NENW,"45ï¿½ï¿½18'ï¿½44""","-118ï¿½ï¿½53'ï¿½14""",H,Umatilla,7/8/2012 21:49,Lightning,0.01,0.01
+2012,97 - Northeast Oregon,Baker,6,Stove Pipe,T10S R38E S08 SESE,"44ï¿½ï¿½43'ï¿½24""","-118ï¿½ï¿½4'ï¿½20""",C,Baker,7/13/2012 18:28,Lightning,0.1,0.1
+2012,97 - Northeast Oregon,Pendleton,6,Dry Canyon,T01S R33E S02 NENW,"45ï¿½ï¿½30'ï¿½41""","-118ï¿½ï¿½38'ï¿½47""",A,Umatilla,7/9/2012 8:33,Lightning,2.5,2.5
+2012,97 - Northeast Oregon,Pendleton,7,Swiss Flat,T04S R31E S02 NENW,"45ï¿½ï¿½15'ï¿½13""","-118ï¿½ï¿½56'ï¿½6""",C,Umatilla,7/9/2012 14:38,Lightning,0.1,0.1
+2012,97 - Northeast Oregon,La Grande,8,Glass Hill,T04S R38E S20 NENE,"45ï¿½ï¿½12'ï¿½19""","-118ï¿½ï¿½4'ï¿½32""",H,Union,8/11/2012 18:09,Recreationist,0.25,0.25
+2012,97 - Northeast Oregon,Pendleton,8,Battle Mountain,T04S R30E S12 SWNE,"45ï¿½ï¿½14'ï¿½18""","-119ï¿½ï¿½1'ï¿½47""",L,Umatilla,7/9/2012 15:25,Lightning,32,32
+2012,97 - Northeast Oregon,Wallowa,8,Sick,T04N R42E S28 SWNE,"45ï¿½ï¿½48'ï¿½3""","-117ï¿½ï¿½34'ï¿½7""",H,Wallowa,7/14/2012 11:46,Lightning,0.01,0.01
+2012,97 - Northeast Oregon,Pendleton,9,Rattle Snake,T03N R35E S35 NWNW,"45ï¿½ï¿½42'ï¿½8""","-118ï¿½ï¿½24'ï¿½41""",A,Umatilla,7/9/2012 19:54,Lightning,0.25,0.25
+2012,97 - Northeast Oregon,Wallowa,9,Olson,T02N R44E S10 NWSW,"45ï¿½ï¿½39'ï¿½59""","-117ï¿½ï¿½18'ï¿½23""",C,Wallowa,7/17/2012 12:55,Lightning,0.01,0.01
+2012,97 - Northeast Oregon,La Grande,10,Wade's Mill,T03S R40E S25 SWNW,"45ï¿½ï¿½16'ï¿½37""","-117ï¿½ï¿½45'ï¿½59""",C,Union,8/12/2012 18:53,Recreationist,1,1
+2012,97 - Northeast Oregon,Baker,10,Hudspeth,T10S R38E S19 SENE,"44ï¿½ï¿½40'ï¿½42""","-118ï¿½ï¿½5'ï¿½35""",C,Baker,7/20/2012 13:08,Under Invest,5,54.5
+2012,97 - Northeast Oregon,Pendleton,10,McKay Creek,T01S R32E S12 NENE,"45ï¿½ï¿½29'ï¿½49""","-118ï¿½ï¿½45'ï¿½17""",L,Umatilla,7/9/2012 19:57,Lightning,22,73
+2012,97 - Northeast Oregon,La Grande,11,Pumpkin Ridge,T01N R39E S20 NENE,"45ï¿½ï¿½33'ï¿½14""","-117ï¿½ï¿½57'ï¿½15""",C,Union,8/13/2012 11:42,Recreationist,8,8
+2012,97 - Northeast Oregon,Baker,12,Meadow Fire,T12S R36E S23 SWSE,"44ï¿½ï¿½30'ï¿½10""","-118ï¿½ï¿½15'ï¿½32""",L,Baker,7/24/2012 19:39,Miscellaneous,0.5,0.5
+2012,97 - Northeast Oregon,La Grande,13,Galloway,T02N R39E S16 NWSW,"45ï¿½ï¿½38'ï¿½55""","-117ï¿½ï¿½57'ï¿½5""",C,Union,8/18/2012 4:00,Recreationist,12,12
+2012,97 - Northeast Oregon,Baker,13,Black Mountain Trailer,T11S R39E S17 SWSW,"44ï¿½ï¿½36'ï¿½11""","-117ï¿½ï¿½58'ï¿½13""",X,Baker,7/28/2012 14:00,Debris Burning,0.01,0.01
+2012,97 - Northeast Oregon,Pendleton,13,Emigrant Pile,T01N R35E S20 SESW,"45ï¿½ï¿½32'ï¿½49""","-118ï¿½ï¿½28'ï¿½4""",X,Umatilla,7/11/2012 15:31,Miscellaneous,0.01,0.01
+2012,97 - Northeast Oregon,La Grande,14,Morgan Lake camp Fire,T03S R37E S14 NESE,"45ï¿½ï¿½18'ï¿½6""","-118ï¿½ï¿½8'ï¿½13""",X,Union,8/25/2012 12:55,Recreationist,0.01,0.01
+2012,97 - Northeast Oregon,Pendleton,14,Deadman Pass,T02N R34E S36 NWSE,"45ï¿½ï¿½36'ï¿½23""","-118ï¿½ï¿½30'ï¿½9""",C,Umatilla,7/14/2012 10:43,Lightning,0.01,0.01
+2012,97 - Northeast Oregon,Baker,15,INC 678,T09S R39E S26 NWSE,"44ï¿½ï¿½44'ï¿½56""","-117ï¿½ï¿½53'ï¿½48""",C,Baker,8/13/2012 12:05,Miscellaneous,0.1,0.1
+2012,97 - Northeast Oregon,Pendleton,16,Galilea Meadows,T04S R29E S02 NWNW,"45ï¿½ï¿½15'ï¿½15""","-119ï¿½ï¿½11'ï¿½9""",C,Morrow,7/16/2012 13:14,Lightning,25,25
+2012,97 - Northeast Oregon,Pendleton,17,Doe Canyon,T02N R34E S34 SWNE,"45ï¿½ï¿½36'ï¿½35""","-118ï¿½ï¿½32'ï¿½47""",C,Umatilla,7/16/2012 15:08,Lightning,0.3,0.3
+2012,97 - Northeast Oregon,La Grande,20,Glass,T03S R38E S31 NESW,"45ï¿½ï¿½15'ï¿½30""","-118ï¿½ï¿½6'ï¿½24""",C,Union,10/6/2012 15:35,Recreationist,0.5,0.5
+2012,97 - Northeast Oregon,Wallowa,20,Cache Creek,T06N R47E S22 SENW,"45ï¿½ï¿½59'ï¿½11""","-116ï¿½ï¿½55'ï¿½42""",L,Wallowa,8/20/2012 19:40,Lightning,3925,73500
+2012,97 - Northeast Oregon,Pendleton,21,Red Hawk Gulch,T01N R34E S07 SENW,"45ï¿½ï¿½34'ï¿½53""","-118ï¿½ï¿½36'ï¿½52""",X,Umatilla,8/9/2012 10:59,Equipment Use,0,0.01
+2012,97 - Northeast Oregon,La Grande,22,Dial,T01S R38E S09 NWNW,"45ï¿½ï¿½29'ï¿½49""","-118ï¿½ï¿½4'ï¿½27""",C,Union,10/6/2012 18:30,Miscellaneous,0.01,0.01
+2012,97 - Northeast Oregon,Pendleton,23,Kamela,T01S R36E S31 SWSW,"45ï¿½ï¿½25'ï¿½53""","-118ï¿½ï¿½21'ï¿½52""",C,Umatilla,8/18/2012 16:08,Recreationist,0.1,0.1
+2012,97 - Northeast Oregon,Wallowa,24,Century Lane,T02S R44E S16 NESW,"45ï¿½ï¿½23'ï¿½4""","-117ï¿½ï¿½19'ï¿½21""",L,Wallowa,9/2/2012 11:05,Miscellaneous,0.5,0.5
+2012,97 - Northeast Oregon,Baker,25,Sumpter Hwy,T10S R38E S18 SENE,"44ï¿½ï¿½44'ï¿½10""","-118ï¿½ï¿½10'ï¿½23""",C,Baker,5/16/2012 16:00,Debris Burning,0.25,0.25
+2012,97 - Northeast Oregon,Wallowa,26,Lewis,T02S R45E S32 SENW,"45ï¿½ï¿½20'ï¿½40""","-117ï¿½ï¿½13'ï¿½12""",L,Wallowa,9/14/2012 20:20,Recreationist,0.01,0.01
+2012,97 - Northeast Oregon,Pendleton,27,Cougar,T01N R33E S10 SESW,"45ï¿½ï¿½34'ï¿½24""","-118ï¿½ï¿½40'ï¿½30""",L,Umatilla,8/23/2012 9:20,Equipment Use,0.6,1.8
+2012,97 - Northeast Oregon,Wallowa,27,Snagzilla,T02N R41E S27 NENW,"45ï¿½ï¿½37'ï¿½56""","-117ï¿½ï¿½40'ï¿½34""",C,Wallowa,9/16/2012 0:47,Lightning,0.1,0.1
+2012,97 - Northeast Oregon,Wallowa,28,Smith Mountain,T02N R41E S09 NWSE,"45ï¿½ï¿½40'ï¿½0""","-117ï¿½ï¿½41'ï¿½42""",C,Wallowa,9/16/2012 12:17,Lightning,26.75,26.75
+2012,97 - Northeast Oregon,Wallowa,29,Bear Gulch,T01S R47E S35 SENE,"45ï¿½ï¿½25'ï¿½47""","-116ï¿½ï¿½54'ï¿½0""",A,Wallowa,9/16/2012 13:23,Lightning,0,44
+2012,97 - Northeast Oregon,Wallowa,30,Parsnip Creek,T01N R43E S24 SENE,"45ï¿½ï¿½33'ï¿½9""","-117ï¿½ï¿½22'ï¿½45""",A,Wallowa,9/21/2012 13:08,Debris Burning,27.3,27.3
+2012,97 - Northeast Oregon,Pendleton,31,Spruce Lane,T01S R35E S09 NWSE,"45ï¿½ï¿½29'ï¿½26""","-118ï¿½ï¿½26'ï¿½29""",X,Umatilla,9/3/2012 4:54,Miscellaneous,0.1,0.1
+2012,97 - Northeast Oregon,Wallowa,33,Fence Creek,T02N R48E S20 SWSE,"45ï¿½ï¿½37'ï¿½54""","-116ï¿½ï¿½50'ï¿½49""",A,Wallowa,9/27/2012 17:12,Equipment Use,0.1,0.1
+2012,97 - Northeast Oregon,Pendleton,34,Albee Road,T04S R31E S12 SWSW,"45ï¿½ï¿½13'ï¿½44""","-118ï¿½ï¿½55'ï¿½1""",C,Umatilla,9/15/2012 23:03,Lightning,0.1,0.1
+2012,97 - Northeast Oregon,Pendleton,35,Hay Truck,T01N R33E S02 SENE,"45ï¿½ï¿½35'ï¿½50""","-118ï¿½ï¿½38'ï¿½38""",X,Umatilla,3/14/2012 11:19,Equipment Use,0,0.01
+2012,97 - Northeast Oregon,Pendleton,36,Owens Creek,T05S R31E S11 NESE,"45ï¿½ï¿½8'ï¿½54""","-118ï¿½ï¿½55'ï¿½27""",C,Umatilla,4/9/2012 15:33,Debris Burning,15.7,15.7
+2012,97 - Northeast Oregon,Pendleton,37,Strickland Flats,T01S R36E S31 SENE,"45ï¿½ï¿½26'ï¿½19""","-118ï¿½ï¿½20'ï¿½54""",C,Umatilla,9/22/2012 9:17,Recreationist,0.01,0.01
+2012,97 - Northeast Oregon,Pendleton,39,Camas Creek Road,T05S R31E S12 SESW,"45ï¿½ï¿½8'ï¿½36""","-118ï¿½ï¿½54'ï¿½54""",A,Umatilla,9/24/2012 17:37,Equipment Use,0.1,0.1
+2012,97 - Northeast Oregon,La Grande,40,Catherine Ck,T05S R40E S11 NENE,"45ï¿½ï¿½9'ï¿½5""","-117ï¿½ï¿½45'ï¿½55""",C,Union,3/25/2012 15:45,Debris Burning,12,12
+2012,97 - Northeast Oregon,Pendleton,40,Camas Creek,T05S R31E S14 SESW,"45ï¿½ï¿½7'ï¿½41""","-118ï¿½ï¿½56'ï¿½4""",A,Umatilla,5/16/2012 15:07,Equipment Use,0.25,0.25
+2012,97 - Northeast Oregon,Pendleton,42,Buckaroo Creek,T01N R35E S06 NENW,"45ï¿½ï¿½36'ï¿½8""","-118ï¿½ï¿½29'ï¿½28""",C,Umatilla,10/2/2012 20:15,Equipment Use,8.5,8.5
+2012,97 - Northeast Oregon,Pendleton,42,East Birch Creek,T02S R33E S30 SESE,"45ï¿½ï¿½20'ï¿½49""","-118ï¿½ï¿½43'ï¿½29""",H,Umatilla,5/19/2012 19:26,Recreationist,0.1,0.1
+2012,97 - Northeast Oregon,Pendleton,45,Hog Pile,T06S R30E S03 NENE,"45ï¿½ï¿½4'ï¿½56""","-119ï¿½ï¿½5'ï¿½11""",I,Umatilla,10/11/2012 15:34,Debris Burning,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,2,WORDEN,T40S R08E S34 SWNW,"42ï¿½ï¿½2'ï¿½50""","-121ï¿½ï¿½52'ï¿½29""",F,Klamath,7/6/2012 18:00,Debris Burning,32,32
+2012,98 - Klamath-Lake,Klamath Falls,5,DIAMOND,T29S R08E S06 SWSW,"43ï¿½ï¿½5'ï¿½0""","-121ï¿½ï¿½49'ï¿½13""",C,Klamath,7/11/2012 14:30,Debris Burning,0.02,0.02
+2012,98 - Klamath-Lake,Lakeview,6,Paxton (655),T36S R19E S32 NENW,"42ï¿½ï¿½24'ï¿½33""","-120ï¿½ï¿½30'ï¿½30""",C,Lake,7/19/2012 15:00,Equipment Use,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,7,PORK CHOP,T32S R07E S35 SWNE,"42ï¿½ï¿½45'ï¿½30""","-121ï¿½ï¿½50'ï¿½48""",H,Klamath,7/15/2012 1:30,Debris Burning,0.13,0.13
+2012,98 - Klamath-Lake,Lakeview,8,Fish (657),T37S R15E S21 NWSE,"42ï¿½ï¿½20'ï¿½37""","-120ï¿½ï¿½56'ï¿½43""",T,Klamath,7/23/2012 14:00,Miscellaneous,0.3,0.3
+2012,98 - Klamath-Lake,Lakeview,9,Creek (658),T37S R15E S21 SESE,"42ï¿½ï¿½20'ï¿½33""","-120ï¿½ï¿½56'ï¿½33""",T,Klamath,7/24/2012 10:00,Miscellaneous,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,10,HILLS,T40S R09E S17 NWSE,"42ï¿½ï¿½5'ï¿½20""","-121ï¿½ï¿½46'ï¿½59""",T,Klamath,7/18/2012 1:27,Arson,16.57,16.57
+2012,98 - Klamath-Lake,Lakeview,10,N P Creek Mutual Aid 659,T41S R20E S24 SWNE,"41ï¿½ï¿½59'ï¿½56""","-120ï¿½ï¿½18'ï¿½22""",X,Lake,7/28/2012 15:45,Miscellaneous,0.25,0.25
+2012,98 - Klamath-Lake,Klamath Falls,11,FABIO,T40S R07E S20 NWSE,"42ï¿½ï¿½4'ï¿½24""","-122ï¿½ï¿½1'ï¿½9""",U,Klamath,7/20/2012 13:30,Equipment Use,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,12,BALSAM,T39S R08E S11 NWNW,"42ï¿½ï¿½11'ï¿½54""","-121ï¿½ï¿½51'ï¿½17""",F,Klamath,7/23/2012 20:35,Recreationist,0.4,0.4
+2012,98 - Klamath-Lake,Klamath Falls,13,BALSAM 2,T39S R08E S11 SWSW,"42ï¿½ï¿½11'ï¿½16""","-121ï¿½ï¿½51'ï¿½17""",A,Klamath,7/28/2012 14:45,Recreationist,0.12,0.12
+2012,98 - Klamath-Lake,Lakeview,14,Willow #2 (672),T41S R16E S11 SWNE,"42ï¿½ï¿½1'ï¿½42""","-120ï¿½ï¿½47'ï¿½16""",L,Lake,8/5/2012 17:00,Lightning,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,15,PIT,T41S R10E S03 SENW,"42ï¿½ï¿½2'ï¿½6""","-121ï¿½ï¿½37'ï¿½50""",X,Klamath,8/3/2012 14:31,Debris Burning,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,16,ROUND,T39S R08E S16 NWSW,"42ï¿½ï¿½10'ï¿½30""","-121ï¿½ï¿½53'ï¿½32""",C,Klamath,8/5/2012 19:57,Lightning,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,17,SAGE BRUSH RIDGE,T31S R13E S07 NWSW,"42ï¿½ï¿½53'ï¿½51""","-121ï¿½ï¿½13'ï¿½40""",H,Lake,8/5/2012 20:30,Lightning,0.2,0.2
+2012,98 - Klamath-Lake,Lakeview,18,Barry Point (680),T40S R16E S11 NWSW,"42ï¿½ï¿½6'ï¿½42""","-120ï¿½ï¿½48'ï¿½5""",G,Lake,8/6/2012 16:26,Lightning,11383,93071
+2012,98 - Klamath-Lake,Lakeview,20,Antelope (690),T39S R17E S25 NENE,"42ï¿½ï¿½9'ï¿½49""","-120ï¿½ï¿½39'ï¿½3""",A,Lake,8/17/2012 20:30,Lightning,20,20
+2012,98 - Klamath-Lake,Lakeview,24,Montgomery (699),T39S R18E S15 SWSE,"42ï¿½ï¿½10'ï¿½50""","-120ï¿½ï¿½34'ï¿½38""",L,Lake,9/9/2012 9:35,Equipment Use,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,25,PINE,T40S R07E S06 SESW,"42ï¿½ï¿½6'ï¿½53""","-122ï¿½ï¿½2'ï¿½39""",C,Klamath,8/6/2012 19:42,Arson,3.52,3.52
+2012,98 - Klamath-Lake,Lakeview,25,Jeep (710),T34S R19E S17 NESW,"42ï¿½ï¿½37'ï¿½8""","-120ï¿½ï¿½30'ï¿½19""",A,Lake,10/4/2012 19:07,Miscellaneous,0.25,0.25
+2012,98 - Klamath-Lake,Klamath Falls,26,FIR,T40S R07E S18 NWNW,"42ï¿½ï¿½5'ï¿½44""","-122ï¿½ï¿½2'ï¿½54""",C,Klamath,8/6/2012 19:32,Arson,5.6,5.6
+2012,98 - Klamath-Lake,Klamath Falls,27,CEDAR,T40S R06E S24 NESE,"42ï¿½ï¿½4'ï¿½25""","-122ï¿½ï¿½3'ï¿½12""",C,Klamath,8/6/2012 19:33,Arson,0.22,0.22
+2012,98 - Klamath-Lake,Klamath Falls,28,RIDGEWATER,T38S R08E S35 NENE,"42ï¿½ï¿½13'ï¿½36""","-121ï¿½ï¿½50'ï¿½18""",C,Klamath,8/7/2012 10:46,Lightning,2.4,2.4
+2012,98 - Klamath-Lake,Klamath Falls,31,SHED,T35S R07E S08 NENE,"42ï¿½ï¿½33'ï¿½24""","-121ï¿½ï¿½54'ï¿½6""",T,Klamath,8/14/2012 13:37,Juveniles,5.4,5.4
+2012,98 - Klamath-Lake,Klamath Falls,34,BRYANT MNT,T39S R11E S26 NWSW,"42ï¿½ï¿½9'ï¿½24""","-121ï¿½ï¿½23'ï¿½6""",T,Klamath,8/16/2012 5:30,Equipment Use,0.2,0.2
+2012,98 - Klamath-Lake,Klamath Falls,35,YOLO,T41S R05E S01 SESE,"42ï¿½ï¿½1'ï¿½30""","-122ï¿½ï¿½10'ï¿½25""",C,Klamath,8/18/2012 13:43,Lightning,0.4,0.4
+2012,98 - Klamath-Lake,Klamath Falls,36,WILLIOW,T28S R08E S35 SENE,"43ï¿½ï¿½6'ï¿½19""","-121ï¿½ï¿½43'ï¿½38""",C,Klamath,8/18/2012 14:10,Lightning,0.18,0.18
+2012,98 - Klamath-Lake,Lakeview,36,Campbell Pile(611),T36S R15E S29 SWNE,"42ï¿½ï¿½25'ï¿½15""","-120ï¿½ï¿½54'ï¿½12""",I,Klamath,5/18/2012 8:47,Arson,0.4,0.4
+2012,98 - Klamath-Lake,Klamath Falls,37,CROWN,T29S R08E S31 SENE,"43ï¿½ï¿½1'ï¿½0""","-121ï¿½ï¿½48'ï¿½31""",G,Klamath,8/18/2012 15:16,Lightning,0.1,0.1
+2012,98 - Klamath-Lake,Lakeview,40,Fence (626),T36S R12E S02 SENW,"42ï¿½ï¿½28'ï¿½44""","-121ï¿½ï¿½15'ï¿½41""",L,Klamath,6/12/2012 13:38,Debris Burning,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,41,FORT,T33S R7.5E S21 NENE,"42ï¿½ï¿½42'ï¿½12""","-121ï¿½ï¿½59'ï¿½59""",A,Klamath,6/19/2012 13:38,Debris Burning,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,42,SOUTH POE,T40S R11E S01 SENE,"42ï¿½ï¿½7'ï¿½45""","-121ï¿½ï¿½28'ï¿½1""",A,Klamath,8/30/2012 13:14,Equipment Use,0.2,0.2
+2012,98 - Klamath-Lake,Lakeview,42,Piute (635),T35S R12E S23 NWNE,"42ï¿½ï¿½31'ï¿½37""","-121ï¿½ï¿½15'ï¿½31""",C,Klamath,6/26/2012 12:02,Debris Burning,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,43,MILL,T40S R08E S34 NWSW,"42ï¿½ï¿½2'ï¿½44""","-121ï¿½ï¿½52'ï¿½19""",A,Klamath,9/4/2012 14:50,Miscellaneous,0.2,0.2
+2012,98 - Klamath-Lake,Klamath Falls,44,GRENADA,T41S R07E S09 SENE,"42ï¿½ï¿½1'ï¿½11""","-121ï¿½ï¿½59'ï¿½34""",C,Klamath,9/5/2012 14:11,Arson,0.69,0.69
+2012,98 - Klamath-Lake,Klamath Falls,45,CLOVER CREEK #1,T39S R07E S26 NENE,"42ï¿½ï¿½9'ï¿½18""","-121ï¿½ï¿½57'ï¿½27""",F,Klamath,9/6/2012 22:52,Arson,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,46,CLOVER CREEK #2,T39S R07E S23 NWSE,"42ï¿½ï¿½9'ï¿½36""","-121ï¿½ï¿½57'ï¿½41""",C,Klamath,9/6/2012 23:49,Arson,0.04,0.04
+2012,98 - Klamath-Lake,Klamath Falls,48,ROAD,T39S R07E S35 SWSE,"42ï¿½ï¿½7'ï¿½42""","-121ï¿½ï¿½57'ï¿½33""",K,Klamath,9/8/2012 23:37,Arson,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,49,CLOVER CREEK #3,T39S R07E S15 NESW,"42ï¿½ï¿½10'ï¿½35""","-121ï¿½ï¿½59'ï¿½6""",C,Klamath,9/8/2012 0:16,Arson,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,54,NORTHREND,T29S R07E S36 NESE,"43ï¿½ï¿½0'ï¿½55""","-121ï¿½ï¿½49'ï¿½36""",C,Klamath,9/13/2012 19:10,Miscellaneous,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,58,MOUSEHAWK,T35S R10E S28 NWSE,"42ï¿½ï¿½30'ï¿½26""","-121ï¿½ï¿½32'ï¿½0""",C,Klamath,9/19/2012 10:31,Under Invest,1.35,1.35
+2012,98 - Klamath-Lake,Klamath Falls,73,NINE,T38S R06E S27 NWNW,"42ï¿½ï¿½14'ï¿½32""","-122ï¿½ï¿½6'ï¿½20""",H,Klamath,10/2/2012 21:50,Arson,5,5
+2012,98 - Klamath-Lake,Klamath Falls,82,RUGER,T39S R08E S21 NESW,"42ï¿½ï¿½9'ï¿½42""","-121ï¿½ï¿½53'ï¿½21""",F,Klamath,10/29/2012 15:15,Debris Burning,0.2,0.2
+2012,98 - Klamath-Lake,Klamath Falls,83,WEBBER RD,T39S R11.5E S32 SESW,"42ï¿½ï¿½8'ï¿½20""","-121ï¿½ï¿½33'ï¿½23""",L,Klamath,10/30/2012 15:50,Debris Burning,5,5
+2012,98 - Klamath-Lake,Klamath Falls,85,BRAYMILL,T34S R08E S19 SWNE,"42ï¿½ï¿½36'ï¿½39""","-121ï¿½ï¿½48'ï¿½27""",C,Klamath,5/16/2012 13:35,Debris Burning,3.2,17.22
+2012,98 - Klamath-Lake,Klamath Falls,86,POWERLINE,T29S R08E S06 NWSW,"43ï¿½ï¿½5'ï¿½4""","-121ï¿½ï¿½49'ï¿½23""",C,Klamath,5/22/2012 16:02,Equipment Use,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,87,ANTELOPE,T35S R11E S25 NESW,"42ï¿½ï¿½30'ï¿½19""","-121ï¿½ï¿½21'ï¿½42""",A,Klamath,5/23/2012 17:30,Recreationist,0.52,0.52
+2012,98 - Klamath-Lake,Klamath Falls,88,UNO,T38S R08E S33 NWNE,"42ï¿½ï¿½13'ï¿½36""","-121ï¿½ï¿½52'ï¿½59""",I,Klamath,5/27/2012 13:18,Arson,0.25,0.25
+2012,98 - Klamath-Lake,Klamath Falls,89,DOS,T38S R08E S33 NENW,"42ï¿½ï¿½13'ï¿½28""","-121ï¿½ï¿½53'ï¿½8""",K,Klamath,5/27/2012 14:47,Arson,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,90,TRES,T38S R08E S33 NENW,"42ï¿½ï¿½13'ï¿½31""","-121ï¿½ï¿½53'ï¿½14""",A,Klamath,5/27/2012 14:55,Arson,0.01,0.01
+2012,98 - Klamath-Lake,Klamath Falls,91,THIRTY TWO FIRE,T37S R07E S17 NWNE,"42ï¿½ï¿½21'ï¿½20""","-122ï¿½ï¿½1'ï¿½6""",C,Klamath,5/27/2012 17:27,Arson,0.1,0.1
+2012,98 - Klamath-Lake,Klamath Falls,97,MARSH,T38S R08E S07 NENE,"42ï¿½ï¿½17'ï¿½7""","-121ï¿½ï¿½54'ï¿½53""",L,Klamath,6/17/2012 14:18,Debris Burning,0.44,0.44
+2012,98 - Klamath-Lake,Klamath Falls,102,DREWS,T36S R11E S10 NWNE,"42ï¿½ï¿½28'ï¿½4""","-121ï¿½ï¿½23'ï¿½44""",F,Klamath,6/28/2012 13:45,Debris Burning,9.6,9.6
+2012,99 - Walker Range,Walker FPA,202,BNRxR,T25S R09E S10 SWSE,"43ï¿½ï¿½25'ï¿½52""","-121ï¿½ï¿½38'ï¿½2""",H,Klamath,7/18/2012 10:56,Lightning,0,0
+2012,99 - Walker Range,Walker FPA,203,CRESCENT BUTTE,T25S R09E S04 NENW,"43ï¿½ï¿½26'ï¿½34""","-121ï¿½ï¿½39'ï¿½27""",H,Klamath,7/18/2012 14:10,Lightning,0,0
+2012,99 - Walker Range,Walker FPA,205,COIDC 294,T23S R09E S34 NWSE,"43ï¿½ï¿½32'ï¿½1""","-121ï¿½ï¿½37'ï¿½58""",H,Klamath,7/19/2012 14:00,Lightning,0.1,0.1
+2012,99 - Walker Range,Walker FPA,209,LIFC 677,T25S R12E S09 SESW,"43ï¿½ï¿½19'ï¿½35""","-121ï¿½ï¿½18'ï¿½10""",H,Lake,8/5/2012 19:38,Lightning,0.2,0.2
+2012,99 - Walker Range,Walker FPA,210,LIFC 677 #2,T26S R12E S09 SESW,"43ï¿½ï¿½19'ï¿½35""","-121ï¿½ï¿½18'ï¿½10""",H,Lake,8/5/2012 19:38,Lightning,0.1,0.1
+2012,99 - Walker Range,Walker FPA,214,COIDC 415,T24S R09E S34 SESW,"43ï¿½ï¿½26'ï¿½48""","-121ï¿½ï¿½38'ï¿½7""",H,Klamath,8/7/2012 16:09,Lightning,0.1,0.1
+2012,99 - Walker Range,Walker FPA,224,CIODC 559,T25S R07E S36 SWSW,"43ï¿½ï¿½21'ï¿½24""","-121ï¿½ï¿½50'ï¿½25""",C,Klamath,10/1/2012 12:55,Equipment Use,0.1,0.1
+2012,99 - Walker Range,Walker FPA,239,CASCADE,T25S R08E S19 SENW,"43ï¿½ï¿½23'ï¿½40""","-121ï¿½ï¿½48'ï¿½59""",X,Klamath,5/21/2012 18:24,Miscellaneous,0,0
+2012,99 - Walker Range,Walker FPA,242,BLACK ROCK RANCH,T24S R07E S13 NENW,"43ï¿½ï¿½29'ï¿½51""","-121ï¿½ï¿½50'ï¿½12""",X,Klamath,6/25/2012 9:40,Debris Burning,0.1,0.1
+2012,99 - Walker Range,Walker FPA,243,STAGECOACH ACRES,T23S R09E S13 NWNE,"43ï¿½ï¿½35'ï¿½33""","-121ï¿½ï¿½35'ï¿½59""",C,Klamath,6/5/2012 10:12,Debris Burning,0,0
