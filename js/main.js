@@ -87,11 +87,8 @@ console.log(innerRect);
 
     //scale for circles center y coordinate
     var y = d3.scale.linear()
-        .range([440, 95])
-        .domain([
-            minPop,
-            maxPop
-        ]);
+        .range([450, 50]) //was 440, 95
+        .domain([0, 700000]); //was minPop, maxPop
 
     //color scale generator 
     var color = d3.scale.linear()
@@ -140,5 +137,49 @@ console.log(innerRect);
         .attr("class", "axis")
         .attr("transform", "translate(50, 0)")
         .call(yAxis);
+
+    // title for graph with text alignments
+    var title = container.append("text")
+        .attr("class", "title")
+        .attr("text-anchor", "middle")
+        .attr("x", 450)
+        .attr("y", 30)
+        .text("City Populations");
+
+    var labels = container.selectAll(".labels")
+        .data(cityPop)
+        .enter()
+        .append("text")
+        .attr("class", "labels")
+        .attr("text-anchor", "left")
+        .attr("y", function(d){
+            //vertical position centered on each circle
+            return y(d.population) + 5;
+        });
+
+    //first line of label
+    var nameLine = labels.append("tspan")
+        .attr("class", "nameLine")
+        .attr("x", function(d,i){
+            //horizontal position to the right of each circle
+            return x(i) + Math.sqrt(d.population * 0.01 / Math.PI) + 5;
+        })
+        .text(function(d){
+            return d.city;
+        });
+
+    //create format generator
+    var format = d3.format(",");
+
+    //Example 3.16 line 1...second line of label
+    var popLine = labels.append("tspan")
+        .attr("class", "popLine")
+        .attr("x", function(d,i){
+            return x(i) + Math.sqrt(d.population * 0.01 / Math.PI) + 5;
+        })
+        .attr("dy", "15") //vertical offset
+        .text(function(d){
+            return "Pop. " + format(d.population); //use format generator to format numbers
+        });
 
 };
