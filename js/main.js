@@ -4,7 +4,7 @@
 window.onload = function(){
 
 	//SVG dimension variables
-    var w = 900, h = 500;
+    var w = 950, h = 500;
 
     var container = d3.select("body") //get the <body> element from the DOM
         .append("svg") //put a new svg in the body
@@ -18,7 +18,7 @@ window.onload = function(){
     var innerRect = container.append("rect") //put a new rect in the svg
     	.datum(400) //rectangle width
             .attr("width", function(d){ //rectangle width
-            return d * 2; //400 * 2 = 800
+            return (d + 25) * 2; //400 * 2 = 800
         }) 
         .attr("height", function(d){ //rectangle height
             return d; //400
@@ -28,30 +28,7 @@ window.onload = function(){
         .attr("y", 50) //position from top on the y (vertical) axis
         .style("fill", "#FFFFFF"); //fill color
 
-console.log(innerRect);
-
-/*
-*** EXAMPLE TESTING FROM MOD07
-    //Example 2.3 line 1
-    var dataArray = [10, 20, 30, 40, 50];
-
-    var circles = container.selectAll(".circles") //but wait--there are no circles yet!
-        .data(dataArray) //here we feed in an array
-        .enter() //one of the great mysteries of the universe
-        .append("circle") //add a circle for each datum
-        .attr("class", "circles") //apply a class name to all circles
-        .attr("r", function(d, i){ //circle radius
-            console.log("d:", d, "i:", i); //let's take a look at d and i
-            return d;
-        })
-        .attr("cx", function(d, i){ //x coordinate
-            return 70 + (i * 180);
-        })
-        .attr("cy", function(d){ //y coordinate
-            return 450 - (d * 5);
-        });
-*/
-
+// array holding the populations of cities in Oregon
     var cityPop = [
         { 
             city: 'Grants Pass',
@@ -87,7 +64,7 @@ console.log(innerRect);
 
     //scale for circles center y coordinate
     var y = d3.scale.linear()
-        .range([450, 50]) //was 440, 95
+        .range([450, 50]) //was 440, 45
         .domain([0, 700000]); //was minPop, maxPop
 
     //color scale generator 
@@ -101,7 +78,6 @@ console.log(innerRect);
             maxPop
         ]);
 
-    //Example 2.6 line 3
     var circles = container.selectAll(".circles") //create an empty selection
         .data(cityPop) //here we feed in an array
         .enter() //one of the great mysteries of the universe
@@ -154,7 +130,7 @@ console.log(innerRect);
         .attr("text-anchor", "left")
         .attr("y", function(d){
             //vertical position centered on each circle
-            return y(d.population) + 5;
+            return y(d.population) - 18;
         });
 
     //first line of label
