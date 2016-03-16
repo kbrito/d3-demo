@@ -54,22 +54,55 @@ console.log(innerRect);
 
     var cityPop = [
         { 
-            city: 'Seattle',
-            population: 652405
+            city: 'Grants Pass',
+            population: 35076
         },
         {
             city: 'Portland',
             population: 609456
         },
         {
-            city: 'Denver',
-            population: 649495
+            city: 'Salem',
+            population: 160614
         },
         {
-            city: 'Sacramento',
-            population: 479686
+            city: 'Burns',
+            population: 2728
         }
     ];
+
+    var x = d3.scale.linear() //create the scale
+        .range([90, 810]) //output min and max
+        .domain([0, 3]); //input min and max
+
+    //find the minimum value of the array
+    var minPop = d3.min(cityPop, function(d){
+        return d.population;
+    });
+
+    //find the maximum value of the array
+    var maxPop = d3.max(cityPop, function(d){
+        return d.population;
+    });
+
+    //scale for circles center y coordinate
+    var y = d3.scale.linear()
+        .range([440, 95])
+        .domain([
+            minPop,
+            maxPop
+        ]);
+
+    //color scale generator 
+    var color = d3.scale.linear()
+        .range([
+            "#9E008B",
+            "#D635C2"
+        ])
+        .domain([
+            minPop, 
+            maxPop
+        ]);
 
     //Example 2.6 line 3
     var circles = container.selectAll(".circles") //create an empty selection
@@ -86,13 +119,16 @@ console.log(innerRect);
             return Math.sqrt(area/Math.PI);
         })
         .attr("cx", function(d, i){
-            //use the index to place each circle horizontally
-            return 90 + (i * 180);
+            //use the scale generator with the index to place each circle horizontally
+            return x(i);
         })
         .attr("cy", function(d){
-            //subtract value from 450 to "grow" circles up from the bottom instead of down from the top of the SVG
-            return 450 - (d.population * 0.0005);
-        });
+            return y(d.population);
+        })
+        .style("fill", function(d, i){ //add a fill based on the color scale generator
+            return color(d.population);
+        })
+        .style("stroke", "#000"); //black circle stroke
 
 
 };
